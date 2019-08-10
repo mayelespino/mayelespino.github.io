@@ -1,9 +1,6 @@
 # Mayel Espino's Resume
 
-|               |               |
-|---------------|---------------|
-| <img src="images/me-1.jpg" alt="me" width="90" height="90">   |  <img src="images/qr_vcard.jpg" alt="vcard" width="90" height="90">   
-
+<img src="images/me-1.jpg" alt="me" width="90" height="90">
 
 | :telephone:   |    :email:     | :globe_with_meridians:     | :globe_with_meridians:                  |
 |---------------|----------------|----------------------------|-----------------------------------------|
@@ -202,10 +199,6 @@ __Crisis Management__ Participated in the on-call rotation for  High priority ti
 |-------------------|----------------|----------------|
 | <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> | __FireEye__ | __October 2015 to April 2016__ |
 
-![FireEye](images/fireeye-squarelogo-1452294049498.png)
-## FireEye
-__October 2015 to April 2016__ | Milpitas,California
-
 `FELabs Infrastructure DevOps Team:`
 
 Development of automated tools for monitoring, management and deployment of horizontaly-scaled, highly-available cloud systems. Architecting multi-datacenter monitoring facilities. Building performance and reliability metrics in a dynamic application environment. Integrate with engineering teams to provide expertise and requirements.
@@ -243,7 +236,7 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 |                   |                |                |
 |-------------------|----------------|----------------|
-| <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="70" height="70"> | __PayPal__ | __October 2006 to May 2014__ |
+| <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="90" height="90"> | __PayPal__ | __October 2006 to May 2014__ |
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
@@ -308,7 +301,7 @@ __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe m
 
 |     |    |    |    |    |
 |-----|----|----|----|----|
-| <img src="images/uacj.gif" alt="Candle Corporation" width="50" height="50">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
+| <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
 
 |     |    |    |    |
 |-----|----|----|----|
@@ -320,3 +313,6 @@ __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe m
 - [Raspberry PI projects](https://github.com/mayelespino/raspberry-pi)
 - [picron](https://youtu.be/hJEf7LCYN3s)
 - [El Contrato](https://youtu.be/wOGnehaLklw)
+
+_____
+<img src="images/qr_vcard.jpg" alt="vcard" width="90" height="90">
