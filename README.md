@@ -1,14 +1,20 @@
 # Mayel Espino's Resume
-- (510)512-5323
-- job@mayel.info
-- www.mayelespino.com
-- https://www.linkedin.com/in/mayelespino 
+
+|               |               |
+|---------------|---------------|
+| <img src="images/me-1.jpg" alt="me" width="90" height="90">   |  <img src="images/qr_vcard.jpg" alt="vcard" width="90" height="90">   
+
+
+| :telephone:   |    :email:     | :globe_with_meridians:     | :globe_with_meridians:                  |
+|---------------|----------------|----------------------------|-----------------------------------------|
+| (510)512-5323 | job@mayel.info | http://www.mayelespino.com | [Linked-in Profile](https://www.linkedin.com/in/mayelespino/)|
+
 
 ## Highlights
-* Received 2 applause awards at Symantec.
-* Inventor of 6 patent applications and co-inventor of 1 patent.
-* My team won the first place in CQES first “hack-a-thon” at PayPal.
-* Received the “PayPalian” award for my involvement for the Airlines Project.
+:trophy: Received 2 applause awards at Symantec.
+:trophy: Inventor of 7 patent applications and co-inventor of 1 patent.
+:trophy: My team won the first place in CQES first “hack-a-thon” at PayPal.
+:trophy: Received the “PayPalian” award for the Airlines Project.
 
 ## Skill Set
 ### Programming languanges
@@ -179,9 +185,9 @@
 ``` Internet security (AppScan) - 06 Months``` 
 - Maintained and extended in house infrastructure for scanning PayPal’s site for internet security vulnerabilities. The infrastructure was built around AppScan an IBM product.
 
-![Apple inc](images/apple-squarelogo-1485292862952.png)
-## Apple 
-__April 2016 to December 2017__ 
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="50" height="50"> | __Apple__ | __April 2016 to December 2017__ | 
 
 `Software engineer - AML Infrastructure Engineering` : 
 As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site.
@@ -190,6 +196,11 @@ __Triage__ Managed ticket queue. Assigned tickets to developers and other team m
 __Crisis Management__ Participated in the on-call rotation for  High priority tickets tickets.
 
 `saltstack - python - bash scripting - Ansible - Cassandra - Hadoop`
+
+
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> | __FireEye__ | __October 2015 to April 2016__ |
 
 ![FireEye](images/fireeye-squarelogo-1452294049498.png)
 ## FireEye
@@ -201,9 +212,10 @@ Development of automated tools for monitoring, management and deployment of hori
 
 `Ansible Tower, Prometheus, ELK Stack, Docker, Python.`
 
-![Ooyala](images/ooyala-squarelogo-1510101523308.png)
-## Ooyala
-__March 2015 to August 2015__ 
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="50" height="50"> | __Ooyala__ | __March 2015 to August 2015__ |
+
 
 `Site Reliability Engineering (and Infrastructure) Team:`
 __Research__ and selecting or extending the right frameworks, tools and technologies for Ooyala's core platform. 
@@ -214,9 +226,10 @@ __Guide and support__ product engineering teams in making full use of the platfo
 
 `Chef, Ruby, AWS, MetaCloud, Consul, Data Dog, Haproxy, Squid, Jira`
 
-![Symantec](images/symantec-squarelogo-1495123496483.png)
-## Symantec
-__May 2014 to March 2015__ 
+
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="50" height="50"> | __Symantec__ | __May 2014 to March 2015__ |
 
 `Mobile Security Customer Response Team:`
  __Investigate and resolve__ customer issues with Symantec’s Mobility Manager server (Mobile security). 
@@ -226,9 +239,11 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 `Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging.`
 
-![PayPal](images/paypal-squarelogo-1440712027841.png)
-## PayPal
-__October 2006 to May 2014__
+
+
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="70" height="70"> | __PayPal__ | __October 2006 to May 2014__ |
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
@@ -250,25 +265,27 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 `C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
 
-![e-trade](images/e-trade-financial-squarelogo.png)
-## E*trade
-__February 2006 to September 2006__
+
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="50" height="50"> | __E*trade__ | __February 2006 to September 2006__ |
 
 __Developed__ projects for E*trade advisors. These were Tuxedo services (server code), which interact with internal web pages.
 
 `C++, Tuxedo, Java, Perl & SQL, Linux.`
 
-![Kabira](images/kabira.png)
-## Kabira
-__August 2005 to January 2006__
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/kabira.png" alt="Kabira"> | __Kabira__ | __August 2005 to January 2006__ |
 
 __Developed__ code for Kabira’s clients.
 
 `Kabira’s proprietary language C++, Solaris Unix.`
 
-![Verizon](images/verizon-squarelogo-1487720317378.png)
-### MCI (Now Verizon Business)
-__1996 to 2004__
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/verizon-squarelogo-1487720317378.png" > | __Verizon__ | __1996 to 2004__ |
+
 `Registry Middleware team`:
 __Developed__ code for Registry, MCI’s messaging (middleware) infrastructure. A mission critical framework which performed complex messaging,and message transformation for some 200 applications. Registry interconnected application across multiple hardware and OS platforms. 
 `BMIT`:
@@ -276,30 +293,29 @@ __Managed__ a cross business unit team of testers to plan and execute end-to-end
 
 `C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.`
 
-![IBM](himages/ibm-squarelogo-1502810404854.png)
-### EDM / Candle Corporation (Now part of IBM)
-__1991 to 1996__
+|                   |                |                |
+|-------------------|----------------|----------------|
+| <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="50" height="50"> | __Candle Corporation__ | __1991 to 1996__ |
+
+
 
 __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe monitoring  and automation tools.
  Project manager for AF/Operator and AF/Performer automation tools, the largest team in Mexico with 9 engineers reporting to me.
 
 `Candle’s proprietary languages, C++, Rexx, assembler. Project Management.`
 
+# Education
 
-## U.A.C.J. 1984 - 1990
-B.S. degree in computer engineering, fully accredited in the United States.
+|     |    |    |    |    |
+|-----|----|----|----|----|
+| <img src="images/uacj.gif" alt="Candle Corporation" width="50" height="50">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
 
-## Colorado Technical University 1998 & 1999
-C++ and Object Oriented certifications.
+|     |    |    |    |
+|-----|----|----|----|
+|     | __Colorado Technical University__ | 1998 & 1999 | C++ and Object Oriented certifications. |
 
 
-
-## Profesional information
-- [Linked-in Profile](https://www.linkedin.com/in/mayelespino/)
-- [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx)
-- [My Patents](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=mayel&FIELD1=INNM&co1=AND&TERM2=&FIELD2=&d=PTXT)
-
-## Personal projects
+# Personal projects
 - [Git Hub Code examples](https://github.com/mayelespino/code)
 - [Raspberry PI projects](https://github.com/mayelespino/raspberry-pi)
 - [picron](https://youtu.be/hJEf7LCYN3s)
