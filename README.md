@@ -315,4 +315,4 @@ __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe m
 - [El Contrato](https://youtu.be/wOGnehaLklw)
 
 _____
-<img src="images/qr_vcard.jpg" alt="vcard" width="90" height="90">
+<img src="images/qr_vcard.jpg" alt="vcard" width="200" height="200">
