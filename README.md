@@ -344,13 +344,9 @@ __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe m
 
 # Education
 
-|     |    |    |    |    |
-|-----|----|----|----|----|
 | <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
-
-|     |    |    |    |
-|-----|----|----|----|
-|     | __Colorado Technical University__ | 1998 & 1999 | C++ and Object Oriented certifications. |
+|-----|----|----|----|----|
+|     | __Colorado Technical University__ | 1998 & 1999 | C++ and Object Oriented certifications. | [Colorado Tech ](https://www.coloradotechonline.com)
 
 
 # Personal projects
