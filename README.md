@@ -5,8 +5,8 @@
       <td><img src="images/me-1.jpg" alt="me" width="90" height="90"></td>
       <td>(510)512-5323</td> 
       <td>job@mayel.info </td> 
-      <td>http://www.mayelespino.com</td>
-      <td>https://www.linkedin.com/in/mayelespino/</td>
+      <td><a href="http://www.mayelespino.com">mayelespino.com</a></td>
+      <td><a href="https://www.linkedin.com/in/mayelespino/">Linked-in profile</a></td>
 </tr>
 </table>
 
@@ -185,6 +185,7 @@
 ``` Internet security (AppScan) - 06 Months``` 
 - Maintained and extended in house infrastructure for scanning PayPal’s site for internet security vulnerabilities. The infrastructure was built around AppScan an IBM product.
 
+# Experience
 <table>
   <tr>
    <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
@@ -193,9 +194,14 @@
   </tr>
 </table>
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="50" height="50"> | __Apple__ | __April 2016 to December 2017__ | 
+
+<table>
+  <tr>
+   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="50" height="50"></td>
+   <td><B>Apple</B></td>
+   <td><B>April 2016 to December 2017</B></td>
+  </tr>
+</table>
 
 `Software engineer - AML Infrastructure Engineering` : 
 As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site.
@@ -206,9 +212,13 @@ __Crisis Management__ Participated in the on-call rotation for  High priority ti
 `saltstack - python - bash scripting - Ansible - Cassandra - Hadoop`
 
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> | __FireEye__ | __October 2015 to April 2016__ |
+<table>
+  <tr>
+   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> </td>
+   <td><B> FireEye </B></td>
+   <td><B> October 2015 to April 2016 </B></td>
+  </tr>
+</table>
 
 `FELabs Infrastructure DevOps Team:`
 
@@ -216,10 +226,14 @@ Development of automated tools for monitoring, management and deployment of hori
 
 `Ansible Tower, Prometheus, ELK Stack, Docker, Python.`
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="50" height="50"> | __Ooyala__ | __March 2015 to August 2015__ |
 
+<table>
+  <tr>
+   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="50" height="50"> </td>
+   <td><B> Ooyala </B></td>
+   <td><B> March 2015 to August 2015 </B></td>
+  </tr>
+</table>
 
 `Site Reliability Engineering (and Infrastructure) Team:`
 __Research__ and selecting or extending the right frameworks, tools and technologies for Ooyala's core platform. 
@@ -230,10 +244,13 @@ __Guide and support__ product engineering teams in making full use of the platfo
 
 `Chef, Ruby, AWS, MetaCloud, Consul, Data Dog, Haproxy, Squid, Jira`
 
-
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="50" height="50"> | __Symantec__ | __May 2014 to March 2015__ |
+<table>
+  <tr>
+   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="50" height="50"> </td>
+   <td><B> Symantec </B></td>
+   <td><B> May 2014 to March 2015 </B></td>
+  </tr>
+</table>
 
 `Mobile Security Customer Response Team:`
  __Investigate and resolve__ customer issues with Symantec’s Mobility Manager server (Mobile security). 
@@ -244,10 +261,13 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 `Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging.`
 
 
-
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="90" height="90"> | __PayPal__ | __October 2006 to May 2014__ |
+<table>
+  <tr>
+   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="90" height="90"> </td>
+   <td><B> PayPal </B></td>
+   <td><B> October 2006 to May 2014 </B></td>
+  </tr>
+</table>
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
@@ -269,26 +289,38 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 `C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
 
+<table>
+  <tr>
+   <td> <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="50" height="50"> </td>
+   <td><B> E*trade </B></td>
+   <td><B> February 2006 to September 2006 </B></td>
+  </tr>
+</table>
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="50" height="50"> | __E*trade__ | __February 2006 to September 2006__ |
 
 __Developed__ projects for E*trade advisors. These were Tuxedo services (server code), which interact with internal web pages.
 
 `C++, Tuxedo, Java, Perl & SQL, Linux.`
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/kabira.png" alt="Kabira"> | __Kabira__ | __August 2005 to January 2006__ |
+<table>
+  <tr>
+   <td> <img src="images/kabira.png" alt="Kabira"> </td>
+   <td><B> Kabira </B></td>
+   <td><B> August 2005 to January 2006 </B></td>
+  </tr>
+</table>
 
 __Developed__ code for Kabira’s clients.
 
 `Kabira’s proprietary language C++, Solaris Unix.`
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/verizon-squarelogo-1487720317378.png" > | __Verizon__ | __1996 to 2004__ |
+<table>
+  <tr>
+   <td> <img src="images/verizon-squarelogo-1487720317378.png" > </td>
+   <td><B> Verizon </B></td>
+   <td><B> 1996 to 2004 </B></td>
+  </tr>
+</table>
 
 `Registry Middleware team`:
 __Developed__ code for Registry, MCI’s messaging (middleware) infrastructure. A mission critical framework which performed complex messaging,and message transformation for some 200 applications. Registry interconnected application across multiple hardware and OS platforms. 
@@ -297,11 +329,13 @@ __Managed__ a cross business unit team of testers to plan and execute end-to-end
 
 `C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.`
 
-|                   |                |                |
-|-------------------|----------------|----------------|
-| <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="50" height="50"> | __Candle Corporation__ | __1991 to 1996__ |
-
-
+<table>
+  <tr>
+   <td> <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="50" height="50"></td>
+   <td><B> Candle Corporation </B></td>
+   <td><B> 1991 to 1996 </B></td>
+  </tr>
+</table>
 
 __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe monitoring  and automation tools.
  Project manager for AF/Operator and AF/Performer automation tools, the largest team in Mexico with 9 engineers reporting to me.
