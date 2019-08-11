@@ -1,17 +1,20 @@
 # Mayel Espino's Resume
 
-<img src="images/me-1.jpg" alt="me" width="90" height="90">
-
-| :telephone:   |    :email:     | :globe_with_meridians:     | :globe_with_meridians:                  |
-|---------------|----------------|----------------------------|-----------------------------------------|
-| (510)512-5323 | job@mayel.info | http://www.mayelespino.com | [Linked-in Profile](https://www.linkedin.com/in/mayelespino/)|
-
+<table>
+ <tr>
+      <td><img src="images/me-1.jpg" alt="me" width="90" height="90"></td>
+      <td>(510)512-5323</td> 
+      <td>job@mayel.info </td> 
+      <td>http://www.mayelespino.com</td>
+      <td>https://www.linkedin.com/in/mayelespino/</td>
+</tr>
+</table>
 
 ## Highlights
-:trophy: Received 2 applause awards at Symantec.
-:trophy: Inventor of 7 patent applications and co-inventor of 1 patent.
-:trophy: My team won the first place in CQES first “hack-a-thon” at PayPal.
-:trophy: Received the “PayPalian” award for the Airlines Project.
+* Received 2 applause awards at Symantec.
+* Inventor of 7 patent applications and co-inventor of 1 patent.
+* My team won the first place in CQES first “hack-a-thon” at PayPal.
+* Received the “PayPalian” award for the Airlines Project.
 
 ## Skill Set
 ### Programming languanges
@@ -181,6 +184,14 @@
 
 ``` Internet security (AppScan) - 06 Months``` 
 - Maintained and extended in house infrastructure for scanning PayPal’s site for internet security vulnerabilities. The infrastructure was built around AppScan an IBM product.
+
+<table>
+  <tr>
+   <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
+   <td><B>Microsoft</B></td>
+   <td><B>February 2018 to Present</B></td>
+  </tr>
+</table>
 
 |                   |                |                |
 |-------------------|----------------|----------------|
