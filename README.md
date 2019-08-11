@@ -1,20 +1,20 @@
 # Mayel Espino's Resume
 
-|               |               |
-|---------------|---------------|
-| <img src="images/me-1.jpg" alt="me" width="90" height="90">   |  <img src="images/qr_vcard.jpg" alt="vcard" width="90" height="90">   
-
-
-| :telephone:   |    :email:     | :globe_with_meridians:     | :globe_with_meridians:                  |
-|---------------|----------------|----------------------------|-----------------------------------------|
-| (510)512-5323 | job@mayel.info | http://www.mayelespino.com | [Linked-in Profile](https://www.linkedin.com/in/mayelespino/)|
-
+<table>
+ <tr>
+      <td><img src="images/me-1.jpg" alt="me" width="90" height="90"></td>
+      <td>(510)512-5323</td> 
+      <td>job@mayel.info </td> 
+      <td>http://www.mayelespino.com</td>
+      <td>https://www.linkedin.com/in/mayelespino/</td>
+</tr>
+</table>
 
 ## Highlights
-:trophy: Received 2 applause awards at Symantec.
-:trophy: Inventor of 7 patent applications and co-inventor of 1 patent.
-:trophy: My team won the first place in CQES first “hack-a-thon” at PayPal.
-:trophy: Received the “PayPalian” award for the Airlines Project.
+* Received 2 applause awards at Symantec.
+* Inventor of 7 patent applications and co-inventor of 1 patent.
+* My team won the first place in CQES first “hack-a-thon” at PayPal.
+* Received the “PayPalian” award for the Airlines Project.
 
 ## Skill Set
 ### Programming languanges
@@ -185,6 +185,14 @@
 ``` Internet security (AppScan) - 06 Months``` 
 - Maintained and extended in house infrastructure for scanning PayPal’s site for internet security vulnerabilities. The infrastructure was built around AppScan an IBM product.
 
+<table>
+  <tr>
+   <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
+   <td><B>Microsoft</B></td>
+   <td><B>February 2018 to Present</B></td>
+  </tr>
+</table>
+
 |                   |                |                |
 |-------------------|----------------|----------------|
 | <img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="50" height="50"> | __Apple__ | __April 2016 to December 2017__ | 
@@ -201,10 +209,6 @@ __Crisis Management__ Participated in the on-call rotation for  High priority ti
 |                   |                |                |
 |-------------------|----------------|----------------|
 | <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> | __FireEye__ | __October 2015 to April 2016__ |
-
-![FireEye](images/fireeye-squarelogo-1452294049498.png)
-## FireEye
-__October 2015 to April 2016__ | Milpitas,California
 
 `FELabs Infrastructure DevOps Team:`
 
@@ -243,7 +247,7 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 |                   |                |                |
 |-------------------|----------------|----------------|
-| <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="70" height="70"> | __PayPal__ | __October 2006 to May 2014__ |
+| <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="90" height="90"> | __PayPal__ | __October 2006 to May 2014__ |
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
@@ -308,7 +312,7 @@ __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe m
 
 |     |    |    |    |    |
 |-----|----|----|----|----|
-| <img src="images/uacj.gif" alt="Candle Corporation" width="50" height="50">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
+| <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
 
 |     |    |    |    |
 |-----|----|----|----|
@@ -320,3 +324,6 @@ __Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe m
 - [Raspberry PI projects](https://github.com/mayelespino/raspberry-pi)
 - [picron](https://youtu.be/hJEf7LCYN3s)
 - [El Contrato](https://youtu.be/wOGnehaLklw)
+
+_____
+<img src="images/qr_vcard.jpg" alt="vcard" width="200" height="200">
