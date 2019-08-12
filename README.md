@@ -198,7 +198,7 @@
   </tr>
 </table>
 
- `Fleet management - Process engineering`: This team was created to find solve gaps in our processes and tools used to manage and track Azure's hardware assets around the world. My responsibilities  included:
+ `Fleet management - Process engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. My responsibilities  included:
 *  __Research, documentation and mapping of existing processes and data flows__ 
 *  __Designed and implementing solutions for__:
  *  __Halcyon__ A graphdb to map the complex relationships between: hardware assets, data producers, data consumers, processes and tools.
@@ -220,7 +220,7 @@
 </table>
 
 `Software engineer - AML Infrastructure Engineering` : As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site. My responsabilites included:
-`Software engineer - AML Infrastructure Engineering` : 
+
 *  __Release Management__ Deployed code to production and non-production environments. Help coordinate the use of the non-production environments with multiple development teams.
 * __Triage__ Managed ticket queue. Assigned tickets to developers and other team members. Help Development team in debugging and root cause analysis.
 * __Crisis Management__ Participated in the on-call rotation for  High priority tickets tickets.
