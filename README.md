@@ -42,7 +42,7 @@
 ``` Assembler - 01 years ```
 - Embedded systems in college.
 
-``` Python - 04 years```
+``` Python - 06 years```
 - Command line utility 
 - Server development 
 – Messaging/middleware systems 
@@ -58,6 +58,10 @@
 - Received training from Puppet developers. 
 - Developed puppet modules. 
 - Developed Chef recipes and tests.
+
+```GO -  learning```
+- Have completed training classes and self paced online courses.
+- Completed a one day training on TiniGO which is used on small systems like Arduino and Raspberry-pi. This has applications in robotics and internet of things (IoT).
 
 ### Scripting languages
 
@@ -128,7 +132,7 @@
 - Report generation - PSQL programs for data pre-processing.
 
 ### Operating Systems
-``` Linux - 12 years``` 
+``` Linux - 14 years``` 
 - Install and developed open source and in-house applications - Systems Administration and management – Process and service monitoring.
 
 ``` Unix - 11 years ``` 
@@ -205,8 +209,7 @@
 
 `Fleet management`: During the first months in the team, I my responsibilities included:
 *  __Deprecating  Core XT for DND and onboarding to Onebranch__: Onebranch is the internal build and deployment pipeline that is gaining support across the entire company. CoreXT is a cumbersome legacy framework which I replaced in favor of the new standard .NET libraries and framework which is used outside the company and have much better support.
-*  __New hire exercise__: The best way to onboard a new hire is to have them  go through an exersice and going through the same process and using the same tools their teammates use day to day. I created a new hire exercise to implement this for new fleet engineers.
-
+*  __New hire exercise__: The best way to onboard a new hire is  going through the same process and using the same tools their teammates use day to day. I created a new hire exercise to implement this for new fleet engineers.
 
 <table>
   <tr>
