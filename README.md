@@ -100,7 +100,7 @@
   <td>Systems Administration and management, Process and service monitoring.</td>
  </tr>
  <tr>
-   <td><b>Unix</b</td>
+  <td><b>Unix</b></td>
    <td>11 years</td>
    <td>Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix.</td>
   </tr>
