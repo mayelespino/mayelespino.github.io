@@ -320,8 +320,11 @@ __Project managed and developer__ code for several large scale, credit card paym
  </table>
 
 # Personal projects
+
 - [Git Hub Code examples](https://github.com/mayelespino/code), some code exercises i've done.
 - [picron](https://youtu.be/hJEf7LCYN3s), is my REST API driven alarm clock and home alarm.
 - [My personal blog](http://www.mayelespino.com), to learn more about my personal project projects.
+
 _____
+
 <img src="images/qr_vcard.jpg" alt="vcard" width="200" height="200">
