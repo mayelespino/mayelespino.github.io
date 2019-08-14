@@ -134,7 +134,7 @@
 ### Other
 <table>
  <tr>
-  <td><b>MQ Series & WebSphere</b><td>
+  <td><b>MQ Series & WebSphere</b></td>
   <td>01 year</td>
   <td>Developed code for complex messaging and message transformation applications.</td>
  </tr>
