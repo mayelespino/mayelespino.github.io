@@ -302,17 +302,26 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 
 # Education
-
-| <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70">    | __U.A.C.J.__    | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | [U.A.C.J](http://www.uacj.mx/Paginas/Default.aspx) |
-|-----|----|----|----|----|
-|     | __Colorado Technical University__ | 1998 & 1999 | C++ and Object Oriented certifications. | [Colorado Tech ](https://www.coloradotechonline.com)
-
+<table>
+ <tr>
+  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70">/td>
+  <td> <b>U.A.C.J.</b></td>
+  <td>1984 - 1990</td>
+  <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
+  <td><a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a></td>
+ </tr>
+ <tr>
+  <td> </td>
+  <td><b>Colorado Technical University</b></td>
+  <td>1998 & 1999</td>
+  <td>C++ and Object Oriented certifications.</td>
+  <td><a href="https://www.coloradotechonline.com">Colorado Tech.</a></td>
+ </tr>
+ </table>
 
 # Personal projects
-- [Git Hub Code examples](https://github.com/mayelespino/code)
-- [Raspberry PI projects](https://github.com/mayelespino/raspberry-pi)
-- [picron](https://youtu.be/hJEf7LCYN3s)
-- [El Contrato](https://youtu.be/wOGnehaLklw)
-
+- [Git Hub Code examples](https://github.com/mayelespino/code), some code exercises i've done.
+- [picron](https://youtu.be/hJEf7LCYN3s), is my REST API driven alarm clock and home alarm.
+- [My personal blog](http://www.mayelespino.com), to learn more about my personal project projects.
 _____
 <img src="images/qr_vcard.jpg" alt="vcard" width="200" height="200">
