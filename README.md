@@ -11,13 +11,16 @@
 </table>
 
 ## Highlights
+
 * Received 2 applause awards at Symantec.
 * Inventor of 7 patent applications and co-inventor of 1 patent.
 * My team won the first place in CQES first “hack-a-thon” at PayPal.
 * Received the “PayPalian” award for the Airlines Project.
 
 ## Skill Set
+
 ### Programming languanges
+
 <table>
  <tr>
   <td><b>C</b></td>
@@ -55,7 +58,9 @@
  </tr>
 </table>
 
+
 ### Infrastructure
+
 <table>
  <tr>
   <td><b>Configuration management</b></td>
@@ -85,29 +90,73 @@
 </table>
 
 ### Operating Systems
-|          |          |          | 
-|----------|----------|----------| 
-| `Linux` | 14 years | Systems Administration and management, Process and service monitoring. | 
-| `Unix` | 11 years | Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix. | 
-| `MVS` | 04 years | Applications C, REX, and proprietary languages. |
-|`Windows` | 10 years | Software Development and management. |
+
+<table>
+ <tr>
+  <td><b> Linux</b></td>
+  <td>14 years</td>
+  <td>Systems Administration and management, Process and service monitoring.</td>
+ </tr>
+ <tr>
+   <td><b>Unix</b</td>
+   <td>11 years</td>
+   <td>Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix.</td>
+  </tr>
+  <tr>
+   <td><b>MVS</b></td>
+   <td>04 years</td>
+   <td>Applications C, REX, and proprietary languages.</td>
+  </tr>
+  <tr>
+   <td><b>Windows</b></td>
+   <td>10 years</td>
+   <td>Software Development and management.</td>
+  </tr>
+</table>
+    
 
 ### Web
-|          |          |          | 
-|----------|----------|----------| 
-| `PHP` | 01 year |  Developed in-house applications for test tool. | 
-| `JavaScript` | learning | Developed Service monitor using JavaScript. | 
+
+<table>
+ <tr>
+  <td><b>PHP</b></td>
+  <td>01 year</td>
+  <td>Developed in-house applications for test tool.</td>
+ </tr>
+ <tr>
+  <td><b>JavaScript</b></td>
+  <td>learning</td>
+  <td>Developed Service monitor using JavaScript.</td> 
+ </tr>
+ </table>
 
 
 ### Other
-|          |          |          |
-|----------|----------|----------|
-| `MQ Series & WebSphere` | 01 year | Developed code for complex messaging and message transformation applications.|
-| `Tuxedo` | 01 year| Developed  servers using tuxedo’s API. |
-| `Project lead and management` | 07 years | Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking. |
-|`Internet security` | 2 years | Maintained and extended in house infrastructure, worked on tooling for security companies.|
+<table>
+ <tr>
+  <td><b>MQ Series & WebSphere</b><td>
+  <td>01 year</td>
+  <td>Developed code for complex messaging and message transformation applications.</td>
+ </tr>
+ <tr>
+  <td><b>Tuxedo</b></td>
+  <td>01 year </td>
+  <td>Developed  servers using tuxedo’s API.</td>
+ </tr>
+ <tr>
+  <td><b>Project lead and management</b></td>
+  <td>07 years</td>
+  <td>Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking.</td>
+ </tr>
+ <tr>
+  <td><b>Internet security</b></td>
+  <td>2 years</td>
+  <td>Maintained and extended in house infrastructure, worked on tooling for security companies.</td>
+ </tr>
+ </table>
 
 # Experience
+
 <table>
   <tr>
    <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
