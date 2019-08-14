@@ -29,25 +29,28 @@
 | `GO` | learning | Have completed training classes, Completed a one day training on TiniGO (IoT).| 
 
 ### Infrastructure
-|          |          |          |
-|----------|----------|----------|
-|`Configuration management` | 04 years | Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.|
-|`Cloud computing` | 3 years | Provisioned and managed nodes in both Azure, AWS and OpenStack.|
-|`Oncall support` | 06 years | Provided second level support and tools |
-| `CD/CI` | 04 years | Implemented various CD/CI pipelines using: Chef, Salt and Ansible.|
-| `SQL DBs` | 07 years | Schema design ,performance tuning, SQL, PSQL, API development. |
+|          |          |          | 
+|----------|----------|----------| 
+| `Configuration management` | 04 years | Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack. | 
+| `Cloud computing` | 3 years | Provisioned and managed nodes in both Azure, AWS and OpenStack. | 
+| `Oncall support` | 06 years | Provided second level support and tools | 
+| `CD/CI` | 04 years | Implemented various CD/CI pipelines using: Chef, Salt and Ansible. | 
+| `SQL DBs` | 07 years | Schema design ,performance tuning, SQL, PSQL, API development. | 
 
 ### Operating Systems
-|          |          |          |
-|----------|----------|----------|
-| `Linux` | 14 years | Systems Administration and management, Process and service monitoring.|
-| `Unix` | 11 years | Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix. |
+|          |          |          | 
+|----------|----------|----------| 
+| `Linux` | 14 years | Systems Administration and management, Process and service monitoring. | 
+| `Unix` | 11 years | Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix. | 
 | `MVS` | 04 years | Applications C, REX, and proprietary languages. |
-|`Windows` | 10 years | Software Development and management.|
+|`Windows` | 10 years | Software Development and management. |
 
 ### Web
-| `PHP` |01 year |  Developed in-house applications for test tool. |
-| `JavaScript` | learning | Developed Service monitor using JavaScript. |
+|          |          |          | 
+|----------|----------|----------| 
+| `PHP` | 01 year |  Developed in-house applications for test tool. | 
+| `JavaScript` | learning | Developed Service monitor using JavaScript. | 
+
 
 ### Other
 |          |          |          |
@@ -153,6 +156,7 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
+
 __Developed__ infrastructure for testing messaging infrastructure, called AMQ.
 
 `Stage Reliability Tiger Team:`
