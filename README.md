@@ -304,14 +304,14 @@ __Project managed and developer__ code for several large scale, credit card paym
 # Education
 <table>
  <tr>
-  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70">/td>
+  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70"></td>
   <td> <b>U.A.C.J.</b></td>
   <td>1984 - 1990</td>
   <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
   <td><a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a></td>
  </tr>
  <tr>
-  <td> </td>
+  <td>     </td>
   <td><b>Colorado Technical University</b></td>
   <td>1998 & 1999</td>
   <td>C++ and Object Oriented certifications.</td>
