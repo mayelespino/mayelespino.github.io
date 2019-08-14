@@ -12,6 +12,7 @@
 
 ## Highlights
 
+* Received award for Microsoft patent submission.
 * Received 2 applause awards at Symantec.
 * Inventor of 7 patent applications and co-inventor of 1 patent.
 * My team won the first place in CQES first “hack-a-thon” at PayPal.
@@ -26,6 +27,7 @@
   <td><b>C</b></td>
   <td>20 years</td>
   <td>Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities </td>
+ </tr>
  <tr>
   <td><b>C++</b></td>
   <td>16 years</td>
