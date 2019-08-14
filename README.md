@@ -18,15 +18,15 @@
 
 ## Skill Set
 ### Programming languanges
-|          |          |          |
-|----------|----------|----------|
-|`C`       | 20 years | Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities|
-| `C++`      | 16 years | Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services. |
-| `Java`     | 02 years | Servlets, Back end servers- Maven test cases, MQ classes. |
-| `Assembler`| 01 years | Embedded systems in college, c++ language extensions |
+|          |          |          | 
+|----------|----------|----------| 
+|`C`       | 20 years | Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities| 
+| `C++`      | 16 years | Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services. | 
+| `Java`     | 02 years | Servlets, Back end servers- Maven test cases, MQ classes. | 
+| `Assembler`| 01 years | Embedded systems in college, c++ language extensions | 
 | `Python`   | 06 years | Command line utility, Server development, Messaging/middleware systems, Monitoring tools. REST services. | 
-| `Ruby`     | 06 months | Developed puppet modules, Developed Chef recipes and tests. |
-| `GO`| learning | Have completed training classes, Completed a one day training on TiniGO (IoT).|
+| `Ruby`     | 06 months | Developed puppet modules, Developed Chef recipes and tests. | 
+| `GO`| learning | Have completed training classes, Completed a one day training on TiniGO (IoT).| 
 
 ### Infrastructure
 |          |          |          |
@@ -176,53 +176,28 @@ __Project managed and developer__ code for several large scale, credit card paym
    <td> <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="50" height="50"> </td>
    <td><B> E*trade </B></td>
    <td><B> February 2006 to September 2006 </B></td>
+   <td>C++, Tuxedo, Java, Perl & SQL, Linux.</td>
   </tr>
-</table>
-
-
-__Developed__ projects for E*trade advisors. These were Tuxedo services (server code), which interact with internal web pages.
-
-`C++, Tuxedo, Java, Perl & SQL, Linux.`
-
-<table>
   <tr>
    <td> <img src="images/kabira.png" alt="Kabira"> </td>
    <td><B> Kabira </B></td>
    <td><B> August 2005 to January 2006 </B></td>
+   <td>Kabira’s proprietary language C++, Solaris Unix.</td>
   </tr>
-</table>
-
-__Developed__ code for Kabira’s clients.
-
-`Kabira’s proprietary language C++, Solaris Unix.`
-
-<table>
   <tr>
    <td> <img src="images/verizon-squarelogo-1487720317378.png" > </td>
    <td><B> Verizon </B></td>
    <td><B> 1996 to 2004 </B></td>
+   <td> C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.</td>
   </tr>
-</table>
-
-`Registry Middleware team`:
-__Developed__ code for Registry, MCI’s messaging (middleware) infrastructure. A mission critical framework which performed complex messaging,and message transformation for some 200 applications. Registry interconnected application across multiple hardware and OS platforms. 
-`BMIT`:
-__Managed__ a cross business unit team of testers to plan and execute end-to-end testing.
-
-`C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.`
-
-<table>
   <tr>
    <td> <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="50" height="50"></td>
    <td><B> Candle Corporation </B></td>
    <td><B> 1991 to 1996 </B></td>
+   <td>Candle’s proprietary languages, C++, Rexx, assembler. Project Management.</td>
   </tr>
 </table>
 
-__Selected for the pioneering__ team in Mexico to develop Candle’s Mainframe monitoring  and automation tools.
- Project manager for AF/Operator and AF/Performer automation tools, the largest team in Mexico with 9 engineers reporting to me.
-
-`Candle’s proprietary languages, C++, Rexx, assembler. Project Management.`
 
 # Education
 
