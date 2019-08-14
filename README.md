@@ -18,176 +18,44 @@
 
 ## Skill Set
 ### Programming languanges
-
-``` C - 20 years ```
-
-- Back end servers 
-- Device driver to control tape drive 
-- Embedded systems 
-– Massive file processing 
-- image processing libraries 
-– Command line utilities.
-
-``` C++ - 16 years ```
-
-- Large-scale Back-end servers 
-– Massive file processors for credit card applications. 
-- SOAP services.
-
-``` Java - 01 year ```
-- Servlets 
-- Back end servers- Maven test cases 
-– MQ classes.
-
-``` Assembler - 01 years ```
-- Embedded systems in college.
-
-``` Python - 06 years```
-- Command line utility 
-- Server development 
-– Messaging/middleware systems 
-– Monitoring tools.
-
-```DJango - 01 year```
-- REST server 
-- Command Line REST client 
-– In-house application for storing service monitor data for reporting engine 
-– Reporting engine.
-
-```Ruby - 06 months ``` 
-- Received training from Puppet developers. 
-- Developed puppet modules. 
-- Developed Chef recipes and tests.
-
-```GO -  learning```
-- Have completed training classes and self paced online courses.
-- Completed a one day training on TiniGO which is used on small systems like Arduino and Raspberry-pi. This has applications in robotics and internet of things (IoT).
-
-### Scripting languages
-
-```Bash Scripting - 07 years```
-- Administrative task automation 
-- Environment set up and management 
-– System Monitoring.
-
-``` Perl - 04 years``` 
-
-- Unix process management 
-- Service monitoring 
-- File processing.
+|          |          |          |
+|----------|----------|----------|
+|`C`       | 20 years | Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities|
+| `C++`      | 16 years | Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services. |
+| `Java`     | 02 years | Servlets, Back end servers- Maven test cases, MQ classes. |
+| `Assembler`| 01 years | Embedded systems in college, c++ language extensions |
+| `Python`   | 06 years | Command line utility, Server development, Messaging/middleware systems, Monitoring tools. REST services. | 
+| `Ruby`     | 06 months | Developed puppet modules, Developed Chef recipes and tests. |
+| `GO`| learning | Have completed training classes, Completed a one day training on TiniGO (IoT).|
 
 ### Infrastructure
-
-``` Infrastructure management and deployment automation - 04 years``` 
-
-- Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.
-
-```Cloud computing - 1 year``` 
-
-- Provisioned and managed nodes in both AWS and OpenStack. Created and managed security groups. Used the web interfaces and command line tools for both.
-
-```Chef - 06 months``` 
-
-- Wrote chef recipes, chef kitchen tests, used kitchen knife for chef server operations and node management.
-
-```Haproxyand Squid - 04 months``` 
-
-- Manage, update haproxy. Created Chef recipes to produce the haproxy configuration.
-
-```Consul - 02 months``` 
-
-- Added service discovery to haproxy.
-
-``` DataDog - 02 months``` 
-
-- Created DD agent scripts to monitor services, also created dashboards and alerts.
-
-```Puppet - 08 months``` 
-
-- Received training from Puppet developers 
-– Developed puppet modules 
-- Tutorial examples 
-- puppet master 
-– Mcollective.
-
-``` Oncall support - 04 years``` 
-- Provided second level support and tools for the DevOps and Batch Ops teams at PayPal and for SRE team at Ooyala.
-
-``` Continuous integration - 04 years``` 
-
-- Created continuous integration jobs, code coverage jobs, Maven test execution jobs.
-
-``` Source control - 11 years``` 
-
-- Used for source control of work projects.
-
-``` Mysql - 01 year ``` 
-
-- Installation, schema design and performance tuning.
-
-``` Oracle/Sybase - 07 years``` 
-- Schema design and performance tuning.
-
-``` SQL/PSQL - 09 years ```
-- Report generation - PSQL programs for data pre-processing.
+|          |          |          |
+|----------|----------|----------|
+|`Configuration management` | 04 years | Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.|
+|`Cloud computing` | 3 years | Provisioned and managed nodes in both Azure, AWS and OpenStack.|
+|`Oncall support` | 06 years | Provided second level support and tools |
+| `CD/CI` | 04 years | Implemented various CD/CI pipelines using: Chef, Salt and Ansible.|
+| `SQL DBs` | 07 years | Schema design ,performance tuning, SQL, PSQL, API development. |
 
 ### Operating Systems
-``` Linux - 14 years``` 
-- Install and developed open source and in-house applications - Systems Administration and management – Process and service monitoring.
-
-``` Unix - 11 years ``` 
-- Systems Administration and management 
-– Process and service monitoring 
-- Ported C/C++ code on to various variations of Unix.
-
-``` MVS - 04 years ``` 
-- Applications C, REX, and proprietary languages.
-
-``` Windows - 10 years``` 
-- Software Development and management.
+|          |          |          |
+|----------|----------|----------|
+| `Linux` | 14 years | Systems Administration and management, Process and service monitoring.|
+| `Unix` | 11 years | Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix. |
+| `MVS` | 04 years | Applications C, REX, and proprietary languages. |
+|`Windows` | 10 years | Software Development and management.|
 
 ### Web
-```HTM - 07 years```
-
-- Developed a variety of web pages for internal tools.
-
-``` PHP - 01 year ``` 
-
-- Developed in-house applications for MCI test tool.
-
-```JavaScript - 06 months``` 
-
-- Developed Service monitor web page using JavaScript to read files and execute REST commands to dynamically build the status web page.
-
-``` Mark up languages - 04 years ``` 
-
-- XML for configuration data 
-- Used Json in conjunction to MongoDB to describe our deployment application’s configuration data.
-
-### Middleware
-``` MQ Series - 01 year ``` 
-
-- Developed, maintained and ported code for messaging applications, which utilized MQ-Series API.
-
-``` WebSphere - 01 years ``` 
-
-- Developed messaging applications for complex messaging and message transformation.
-
-``` Tuxedo - 01 year ```
-
-- Developed business logic for tuxedo servers, using tuxedo’s API.
+| `PHP` |01 year |  Developed in-house applications for test tool. |
+| `JavaScript` | learning | Developed Service monitor using JavaScript. |
 
 ### Other
-``` Project management - 07 years ``` 
-
-- Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking.
-
-``` Embedded Systems - 01 years ``` 
-
-- Developed Embedded systems programs for college. 
-
-``` Internet security (AppScan) - 06 Months``` 
-- Maintained and extended in house infrastructure for scanning PayPal’s site for internet security vulnerabilities. The infrastructure was built around AppScan an IBM product.
+|          |          |          |
+|----------|----------|----------|
+| `MQ Series & WebSphere` | 01 year | Developed code for complex messaging and message transformation applications.|
+| `Tuxedo` | 01 year| Developed  servers using tuxedo’s API. |
+| `Project lead and management` | 07 years | Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking. |
+|`Internet security` | 2 years | Maintained and extended in house infrastructure, worked on tooling for security companies.|
 
 # Experience
 <table>
