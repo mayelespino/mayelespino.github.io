@@ -18,24 +18,71 @@
 
 ## Skill Set
 ### Programming languanges
-|          |          |          | 
-|----------|----------|----------| 
-| `C`       | 20 years | Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities | 
-| `C++`      | 16 years | Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services. | 
-| `Java`     | 02 years | Servlets, Back end servers- Maven test cases, MQ classes. | 
-| `Assembler`| 01 years | Embedded systems in college, c++ language extensions | 
-| `Python`   | 06 years | Command line utility, Server development, Messaging/middleware systems, Monitoring tools. REST services. | 
-| `Ruby`     | 06 months | Developed puppet modules, Developed Chef recipes and tests. | 
-| `GO` | learning | Have completed training classes, Completed a one day training on TiniGO (IoT).| 
+<table>
+ <tr>
+  <td><b>C</b></td>
+  <td>20 years</td>
+  <td>Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities </td>
+ <tr>
+  <td><b>C++</b></td>
+  <td>16 years</td>
+  <td>Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services.</td>
+ </tr>
+ <tr>
+  <td><b>Java</b></td>
+  <td>02 years</td>
+  <td>Servlets, Back end servers- Maven test cases, MQ classes.</td>
+ </tr>
+ <tr>
+  <td><b>Assembler</b></td>
+  <td> 01 years</td>
+  <td>Embedded systems in college, c++ language extensions</td>
+ </tr>
+ <tr>
+  <td><b>Python</b></td>
+  <td>06 years</td>
+  <td>Command line utility, Server development, Messaging/middleware systems, Monitoring tools, REST services.</td>
+ </tr>
+ <tr>
+   <td><b>Ruby</b></td>
+   <td>06 months</td>
+   <td>Developed puppet modules, Developed Chef recipes and tests.</td>
+ </tr>
+ <tr>
+  <td><b>GO</b></td>
+  <td>learning</td>
+  <td>Have completed training classes, Completed a one day training on TiniGO (IoT).</td>
+ </tr>
+</table>
 
 ### Infrastructure
-|          |          |          | 
-|----------|----------|----------| 
-| `Configuration management` | 04 years | Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack. | 
-| `Cloud computing` | 3 years | Provisioned and managed nodes in both Azure, AWS and OpenStack. | 
-| `Oncall support` | 06 years | Provided second level support and tools | 
-| `CD/CI` | 04 years | Implemented various CD/CI pipelines using: Chef, Salt and Ansible. | 
-| `SQL DBs` | 07 years | Schema design ,performance tuning, SQL, PSQL, API development. | 
+<table>
+ <tr>
+  <td><b>Configuration management</b></td>
+  <td>04 years</td>
+  <td>Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.</td>
+ </tr>
+ <tr>
+  <td><b>Cloud computing</b></td>
+  <td>3 years</td>
+  <td>Provisioned and managed nodes in both Azure, AWS and OpenStack.</td>
+ </tr>
+ <tr>
+  <td><b>Oncall support</b></td>
+  <td>06 years</td>
+  <td>Provided second level support and tools</td>
+ </tr>
+ <tr>
+  <td><b>CD/CI</b></td>
+  <td>04 years</td>
+  <td>Implemented various CD/CI pipelines using: Chef, Salt and Ansible.</td>
+ </tr>
+ <tr>
+  <td><b>SQL DBs</b></td>
+  <td>07 years</td>
+  <td>Schema design ,performance tuning, SQL, PSQL, API development.</td>
+ </tr>
+</table>
 
 ### Operating Systems
 |          |          |          | 
