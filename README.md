@@ -20,13 +20,13 @@
 ### Programming languanges
 |          |          |          | 
 |----------|----------|----------| 
-|`C`       | 20 years | Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities| 
+| `C`       | 20 years | Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities | 
 | `C++`      | 16 years | Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services. | 
 | `Java`     | 02 years | Servlets, Back end servers- Maven test cases, MQ classes. | 
 | `Assembler`| 01 years | Embedded systems in college, c++ language extensions | 
 | `Python`   | 06 years | Command line utility, Server development, Messaging/middleware systems, Monitoring tools. REST services. | 
 | `Ruby`     | 06 months | Developed puppet modules, Developed Chef recipes and tests. | 
-| `GO`| learning | Have completed training classes, Completed a one day training on TiniGO (IoT).| 
+| `GO` | learning | Have completed training classes, Completed a one day training on TiniGO (IoT).| 
 
 ### Infrastructure
 |          |          |          |
