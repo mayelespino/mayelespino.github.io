@@ -26,12 +26,12 @@
  <tr>
   <td><b>C</b></td>
   <td>20 years</td>
-  <td>Back end servers, Device driver to control tape drive, Embedded systems, Massive file processing, Image processing libraries,Command line utilities </td>
+  <td> Update and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. Wrote a driver to control tape drive for Fedex vendors to ship files, to process thousandsof files daily.</td>
  </tr>
  <tr>
   <td><b>C++</b></td>
   <td>16 years</td>
-  <td>Large-scale Back-end servers, Massive file processors for credit card applications, SOAP services.</td>
+  <td>Added 4 mayor features to credit card processing (back-end) servers and also process massive transaction files. One mayor feature was the airline ticket processing for PayPal.</td>
  </tr>
  <tr>
   <td><b>Java</b></td>
@@ -46,12 +46,12 @@
  <tr>
   <td><b>Python</b></td>
   <td>06 years</td>
-  <td>Command line utility, Server development, Messaging/middleware systems, Monitoring tools, REST services.</td>
+  <td>Wrote command line utility to drive the inhouse deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packates to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
  </tr>
  <tr>
    <td><b>Ruby</b></td>
    <td>06 months</td>
-   <td>Developed puppet modules, Developed Chef recipes and tests.</td>
+   <td>Developed puppet modules, Developed Chef recipes and tests on mixed cloud and bare metal farms or hosts.</td>
  </tr>
  <tr>
   <td><b>GO</b></td>
@@ -153,7 +153,7 @@
  <tr>
   <td><b>Internet security</b></td>
   <td>2 years</td>
-  <td>Maintained and extended in house infrastructure, worked on tooling for security companies.</td>
+  <td>Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.</td>
  </tr>
  </table>
 
