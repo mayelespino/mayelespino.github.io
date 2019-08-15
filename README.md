@@ -34,6 +34,11 @@
   <td>Added 4 mayor features to credit card processing (back-end) servers and also process massive transaction files. One mayor feature was the airline ticket processing for PayPal.</td>
  </tr>
  <tr>
+  <td><b>Python</b></td>
+  <td>06 years</td>
+  <td>Wrote command line utility to drive the inhouse deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packates to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
+ </tr>
+<tr>
   <td><b>Java</b></td>
   <td>02 years</td>
   <td>Created wab application using servlets to run and monitor Maven test cases.</td>
@@ -44,20 +49,21 @@
   <td>Wrote embedded systems in college. Extended a propreatary (SSPL) language to add methods for writing files.</td>
  </tr>
  <tr>
-  <td><b>Python</b></td>
-  <td>06 years</td>
-  <td>Wrote command line utility to drive the inhouse deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packates to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
- </tr>
- <tr>
    <td><b>Ruby</b></td>
    <td>06 months</td>
    <td>Developed puppet modules, Developed Chef recipes and tests on mixed cloud and bare metal farms or hosts.</td>
  </tr>
  <tr>
   <td><b>GO</b></td>
-  <td>learning</td>
+  <td>Learning</td>
   <td>Have completed training classes, Completed a one day training on TiniGO (IoT).</td>
  </tr>
+ <tr>
+  <td><b>C#</b></td>
+  <td>Learning</td>
+  <td>Implementin a set of <b>C#</b> microservices arround a graph database.</td>
+ </tr>
+
 </table>
 
 
