@@ -61,7 +61,7 @@
  <tr>
   <td><b>C#</b></td>
   <td>Learning</td>
-  <td>Implementin a set of <b>C#</b> microservices arround a graph database.</td>
+  <td>Implementin a set of C# microservices (Azure Functions) arround a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
 
 </table>
