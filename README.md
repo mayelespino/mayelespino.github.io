@@ -36,12 +36,12 @@
  <tr>
   <td><b>Java</b></td>
   <td>02 years</td>
-  <td>Servlets, Back end servers- Maven test cases, MQ classes.</td>
+  <td>Created wab application using servlets to run and monitor Maven test cases.</td>
  </tr>
  <tr>
   <td><b>Assembler</b></td>
   <td> 01 years</td>
-  <td>Embedded systems in college, c++ language extensions</td>
+  <td>Wrote embedded systems in college. Extended a propreatary (SSPL) language to add methods for writing files.</td>
  </tr>
  <tr>
   <td><b>Python</b></td>
