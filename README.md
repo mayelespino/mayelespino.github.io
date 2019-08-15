@@ -107,12 +107,12 @@
   <tr>
    <td><b>MVS</b></td>
    <td>04 years</td>
-   <td>Applications C, REX, and proprietary languages.</td>
+   <td>Wrote applications C, REX, and proprietary languages.</td>
   </tr>
   <tr>
    <td><b>Windows</b></td>
    <td>10 years</td>
-   <td>Software Development and management.</td>
+   <td>Software Development in C++, Java and C#.</td>
   </tr>
 </table>
     
