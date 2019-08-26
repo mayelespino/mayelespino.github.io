@@ -6,7 +6,7 @@
       <td>(510)512-5323</td> 
       <td>job@mayel.info </td> 
       <td><a href="http://www.mayelespino.com">mayelespino.com</a></td>
-      <td><a href="https://www.linkedin.com/in/mayelespino/">Linked-in profile</a></td>
+      <td><a href="https://www.linkedin.com/in/mayelespino/"><img src="images/linkedin.jpg" alt="linkedin" width="90" height="90"></a></td>
 </tr>
 </table>
 
@@ -333,8 +333,8 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 # Personal projects
 
-- [Git Hub Code examples](https://github.com/mayelespino/code), some code exercises i've done.
-- [picron](https://youtu.be/hJEf7LCYN3s), is my REST API driven alarm clock and home alarm.
+- <img src="images/github-logo.jpg" alt="my code" width="60" height="60"> [code examples](https://github.com/mayelespino/code), some code exercises i've done.
+- <img src="images/s-l300.jpg" alt="my code" width="60" height="60"> [picron](https://youtu.be/hJEf7LCYN3s), is my REST API driven alarm clock and home alarm.
 - [My personal blog](http://www.mayelespino.com), to learn more about my personal project projects.
 
 _____
