@@ -333,9 +333,10 @@ __Project managed and developer__ code for several large scale, credit card paym
  </table>
 
 # Personal projects
-
-- <img src="images/github-logo.jpg" alt="my code" width="80" height="60"> [code examples](https://github.com/mayelespino/code), some code exercises i've done.
-- <img src="images/s-l300.jpg" alt="my code" width="60" height="60"> This is a video of [picron](https://youtu.be/hJEf7LCYN3s), my REST API driven alarm clock and home alarm. The code is [here](https://github.com/mayelespino/raspberry-pi/tree/master/picron).
+- [code examples](https://github.com/mayelespino/code). -  Some code exercises i've done.
+- [picron](https://youtu.be/hJEf7LCYN3s). - This is my REST API driven alarm clock and home alarm. The code is [here](https://github.com/mayelespino/raspberry-pi/tree/master/picron).
+- [Home Monitoring system](http://17440hd.ngrok.io). - This project is comprised of two raspberry pies, one web server and one to manage the sensors.
+- [My personal page](http://www.mayelespino.com)
 
 _____
 
