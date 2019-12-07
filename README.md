@@ -7,7 +7,7 @@
       <td>job@mayel.info </td> 
       <td><a href="http://www.mayelespino.com">mayelespino.com</a></td>
       <td><a href="https://www.linkedin.com/in/mayelespino/"><img src="images/linkedin.jpg" alt="linkedin" width="90" height="90"></a></td>
-  <td><a href="https://goo.gl/maps/ygF3CK9dbuAEc5o27">Morgan Hill California</a></td>
+  <td>I live in: <a href="https://goo.gl/maps/ygF3CK9dbuAEc5o27">Morgan Hill CA</a><br/>2 hrs south of SF.</td>
 </tr>
 </table>
 
