@@ -15,7 +15,7 @@
            <br/>
            <a href="/files/MEResume.pdf" download>This resume</a>
        </td>
-  <td><b>Area I am willing to commute to:</b></br><img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="200" height="150"></td>
+  <td><b>Area I am willing to commute to:</b> <br/> <img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="200" height="150"></td>
 </tr>
 </table>
 
