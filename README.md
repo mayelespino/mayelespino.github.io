@@ -3,11 +3,21 @@
 <table>
  <tr>
       <td><img src="images/me-1.jpg" alt="me" width="90" height="90"></td>
-      <td>(510)512-5323</td> 
-      <td>job@mayel.info<br/>mayel.espino@gmail.com </td> 
-      <td><a href="http://www.mayelespino.com">mayelespino.com</a></td>
-      <td><a href="https://www.linkedin.com/in/mayelespino/"><img src="images/linkedin.jpg" alt="linkedin" width="90" height="90"></a></td>
-  <td>I live in: <a href="https://goo.gl/maps/ygF3CK9dbuAEc5o27">Morgan Hill CA</a><br/>2 hrs south of SF.</td>
+      <td><b>Mobile:</b><br/>(510)512-5323</td> 
+      <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
+      <td>
+      <a href="https://www.linkedin.com/in/mayelespino/">
+         <img src="images/linkedin.jpg" alt="linkedin" width="90" height="90">
+      </a>
+       <br/>
+     </td>
+      <td> 
+       <b>Download PDF files:</b><br/>
+           <a href="/files/MELinkedIn.pdf" download>LinkedIn Profile</a>
+           <br/>
+           <a href="/files/MEResume.pdf" download>This resume</a>
+       </td>
+  <td><b>Commute area:</b></br><img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="100" height="90"></td>
 </tr>
 </table>
 
