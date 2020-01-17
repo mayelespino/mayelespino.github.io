@@ -2,8 +2,8 @@
 
 <table>
  <tr>
-      <td><img src="images/me-1.jpg" alt="me" width="90" height="90"></td>
-      <td><b>Mobile:</b><br/>(510)512-5323</td> 
+      <td><img src="images/me-1.jpg" alt="me" width="100" height="150"></td>
+      <td><b>Mobile:</b><br/>(510) <br/>512-5323</td> 
       <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
       <td>
       <a href="https://www.linkedin.com/in/mayelespino/">
@@ -15,7 +15,7 @@
            <br/>
            <a href="/files/MEResume.pdf" download>This resume</a>
        </td>
-  <td><b>Area I am willing to commute to:</b> <br/> <img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="200" height="150"></td>
+  <td><b>Area I am willing to commute to:</b> <br/> <img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="300" height="200"></td>
 </tr>
 </table>
 
