@@ -10,14 +10,12 @@
          <img src="images/linkedin.jpg" alt="linkedin" width="90" height="90">
       </a>
        <br/>
-     </td>
-      <td> 
        <b>Download PDF files:</b><br/>
            <a href="/files/MELinkedIn.pdf" download>LinkedIn Profile</a>
            <br/>
            <a href="/files/MEResume.pdf" download>This resume</a>
        </td>
-  <td><b>Commute area:</b></br><img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="100" height="90"></td>
+  <td><b>Area I am willing to commute to:</b></br><img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="200" height="150"></td>
 </tr>
 </table>
 
