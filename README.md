@@ -7,7 +7,7 @@
       <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
       <td>
       <a href="https://www.linkedin.com/in/mayelespino/">
-         <img src="images/linkedin.jpg" alt="linkedin" width="90" height="90">
+         <img src="images/linkedin.jpg" alt="linkedin" width="110" height="90">
       </a>
        <br/>
        <b>Download PDF files:</b><br/>
@@ -15,7 +15,7 @@
            <br/>
            <a href="/files/MEResume.pdf" download>This resume</a>
        </td>
-  <td><b>Area I am willing to commute to:</b> <br/> <img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="300" height="200"></td>
+  <td><b>Area I am willing to commute to:</b> <br/> <img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="250" height="150"></td>
 </tr>
 </table>
 
