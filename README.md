@@ -1,6 +1,6 @@
 # Mayel Espino's Resume
 
-<table>
+<table width="100%">
  <tr>
       <td><b>Mobile:</b><br/>(510) <br/>512-5323</td> 
       <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
