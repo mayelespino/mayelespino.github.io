@@ -1,21 +1,20 @@
 # Mayel Espino's Resume
 
-<table>
+<table width="100%">
  <tr>
-      <td><img src="images/me-1.jpg" alt="me" width="100" height="150"></td>
       <td><b>Mobile:</b><br/>(510) <br/>512-5323</td> 
       <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
       <td>
-      <a href="https://www.linkedin.com/in/mayelespino/">
-         <img src="images/linkedin.jpg" alt="linkedin" width="110" height="90">
-      </a>
-       <br/>
-       <b>Download PDF files:</b><br/>
-           <a href="/files/MELinkedIn.pdf" download>LinkedIn Profile</a>
-           <br/>
-           <a href="/files/MEResume.pdf" download>This resume</a>
+         <a href="https://www.linkedin.com/in/mayelespino/">
+            <img src="images/linkedin.jpg" alt="linkedin" width="100" height="90">
+         </a>
        </td>
-  <td><b>Area I am willing to commute to:</b> <br/> <img src="images/silicon-valley-map.jpg" alt="Silicon Valley" width="250" height="150"></td>
+       <td>
+         <a href="/files/MELinkedIn.pdf" download>Download LinkedIn Profile (PDF)</a>
+       </td>
+       <td>
+           <a href="/files/MEResume.pdf" download>Download this resume (PDF)</a>
+       </td>
 </tr>
 </table>
 
