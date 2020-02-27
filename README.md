@@ -91,8 +91,8 @@
  </tr>
  <tr>
   <td><b>Cloud computing</b></td>
-  <td>3 years</td>
-  <td>Provisioned and managed nodes in both Azure, AWS and OpenStack.</td>
+  <td>5 years</td>
+  <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.</td>
  </tr>
  <tr>
   <td><b>Oncall support</b></td>
