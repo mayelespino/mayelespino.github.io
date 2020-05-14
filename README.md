@@ -77,7 +77,6 @@
   <td>Learning</td>
   <td>Implementin a set of C# microservices (Azure Functions) arround a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
-
 </table>
 
 
@@ -155,6 +154,11 @@
 
 ### Other
 <table>
+  <tr>
+  <td><b>Solutions architecture</b></td>
+  <td>03 year</td>
+  <td>Engaged with internal and external customers to : manage the relationships, gather requirements, design and implement a solution.</td>
+ </tr>
  <tr>
   <td><b>MQ Series & WebSphere</b></td>
   <td>01 year</td>
@@ -266,7 +270,7 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 <table>
   <tr>
-   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="90" height="90"> </td>
+   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="80" height="80"> </td>
    <td><B> PayPal </B></td>
    <td><B> October 2006 to May 2014 </B></td>
   </tr>
@@ -324,7 +328,7 @@ __Project managed and developer__ code for several large scale, credit card paym
 # Education
 <table>
  <tr>
-  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="70" height="70"></td>
+  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="80" height="60"></td>
   <td> <b>U.A.C.J.</b></td>
   <td>1984 - 1990</td>
   <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
