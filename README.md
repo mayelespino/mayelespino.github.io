@@ -9,8 +9,8 @@
     </colgroup>
 
  <tr>
-      <td><b>Mobile:</b><br/>(510)512-5323</td> 
-      <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
+      <td><b>Mobile:</b>(510)512-5323</td> 
+      <td><b>email:</b>job@mayel.infospino@gmail.com</td> 
       <td>
          <a href="https://www.linkedin.com/in/mayelespino/">
             <img src="images/linkedin.jpg" alt="linkedin" width="100" height="90">
