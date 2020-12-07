@@ -1,6 +1,13 @@
 # Mayel Espino's Resume
 
 <table width="100%">
+    <colgroup>
+       <col span="1" style="width: 30%;">
+       <col span="1" style="width: 30%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+    </colgroup>
+
  <tr>
       <td><b>Mobile:</b><br/>(510) <br/>512-5323</td> 
       <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
