@@ -10,9 +10,6 @@
          </a>
        </td>
        <td>
-         <a href="/files/MELinkedIn.pdf" download>Download LinkedIn Profile (PDF)</a>
-       </td>
-       <td>
            <button onclick="window.print()">Print this page</button>
        </td>
 </tr>
