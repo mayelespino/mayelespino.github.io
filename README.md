@@ -13,7 +13,7 @@
          <a href="/files/MELinkedIn.pdf" download>Download LinkedIn Profile (PDF)</a>
        </td>
        <td>
-           <a href="/files/MEResume.pdf" download>Download this resume (PDF)</a>
+           <button onclick="window.print()">Print this page</button>
        </td>
 </tr>
 </table>
