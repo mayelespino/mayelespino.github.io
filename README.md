@@ -3,13 +3,13 @@
 <table width="100%">
     <colgroup>
        <col span="1" style="width: 40%;">
-       <col span="1" style="width: 30%;">
+       <col span="1" style="width: 25%;">
        <col span="1" style="width: 15%;">
-       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 20%;">
     </colgroup>
 
  <tr>
-      <td><b>Mobile:</b><br/>(510) <br/>512-5323</td> 
+      <td><b>Mobile:</b><br/>(510)512-5323</td> 
       <td><b>email:</b><br>job@mayel.info<br/><b>or:</b><br>mayel.espino@gmail.com </td> 
       <td>
          <a href="https://www.linkedin.com/in/mayelespino/">
