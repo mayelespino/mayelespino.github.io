@@ -1,4 +1,3 @@
-# Mayel Espino's Resume
 
 <table width="100%">
     <colgroup>
