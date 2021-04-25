@@ -9,7 +9,7 @@
 
  <tr>
       <td><b>Mobile:</b>(510)512-5323</td> 
-      <td><b>email:</b>job@mayel.infospino@gmail.com</td> 
+      <td><b>email:</b>job@mayel.info</td> 
       <td>
          <a href="https://www.linkedin.com/in/mayelespino/">
             <img src="images/linkedin.jpg" alt="linkedin" width="100" height="90">
@@ -52,7 +52,7 @@
  </tr>
  <tr>
   <td><b>Python</b></td>
-  <td>06 years</td>
+  <td>07 years</td>
   <td>Wrote command line utility to drive the inhouse deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packates to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
  </tr>
 <tr>
@@ -67,7 +67,7 @@
  </tr>
  <tr>
    <td><b>Ruby</b></td>
-   <td>06 months</td>
+   <td>Learning</td>
    <td>Developed puppet modules, Developed Chef recipes and tests on mixed cloud and bare metal farms or hosts.</td>
  </tr>
  <tr>
@@ -88,7 +88,7 @@
 <table>
  <tr>
   <td><b>Configuration management</b></td>
-  <td>04 years</td>
+  <td>05 years</td>
   <td>Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.</td>
  </tr>
  <tr>
@@ -96,20 +96,19 @@
   <td>5 years</td>
   <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.</td>
  </tr>
+ 
+ ### Databases
+ 
+ <table>
  <tr>
-  <td><b>Oncall support</b></td>
-  <td>06 years</td>
-  <td>Provided second level support and tools</td>
+  <td><b>Relational data bases: Oracle, Sybase, MySQL</b></td>
+  <td>10 years</td>
+  <td>Schema design, SQL and PSQL programming.</td>
  </tr>
  <tr>
-  <td><b>CD/CI</b></td>
+  <td><b>NoSQL Databases: Cassandra, Mongo, Graph databases</b></td>
   <td>04 years</td>
-  <td>Implemented various CD/CI pipelines using: Chef, Salt and Ansible.</td>
- </tr>
- <tr>
-  <td><b>SQL DBs</b></td>
-  <td>07 years</td>
-  <td>Schema design ,performance tuning, SQL, PSQL, API development.</td>
+  <td>Installed, developed code to read and write.</td>
  </tr>
 </table>
 
@@ -139,7 +138,7 @@
 </table>
     
 
-### Web
+### Web development
 
 <table>
  <tr>
@@ -147,30 +146,15 @@
   <td>01 year</td>
   <td>Developed in-house applications for test tool.</td>
  </tr>
- <tr>
-  <td><b>JavaScript</b></td>
-  <td>learning</td>
-  <td>Developed Service monitor using JavaScript.</td> 
- </tr>
  </table>
 
 
 ### Other
 <table>
   <tr>
-  <td><b>Solutions architecture</b></td>
-  <td>03 year</td>
-  <td>Engaged with internal and external customers to : manage the relationships, gather requirements, design and implement a solution.</td>
- </tr>
- <tr>
-  <td><b>MQ Series & WebSphere</b></td>
-  <td>01 year</td>
-  <td>Developed code for complex messaging and message transformation applications.</td>
- </tr>
- <tr>
-  <td><b>Tuxedo</b></td>
-  <td>01 year </td>
-  <td>Developed  servers using tuxedo’s API.</td>
+  <td><b>Middleware: Tuxedo, MQSeries, Azure Event hub</b></td>
+  <td>04 years</td>
+  <td>Installed and developed code to publish and subscribe to messages.</td>
  </tr>
  <tr>
   <td><b>Project lead and management</b></td>
@@ -194,6 +178,7 @@
   </tr>
 </table>
 
+`Office of the CTO` : This team designs, promotes, implememts common solutions accross the Azure organization by collaborating with varios teams with in the organization.
  `Fleet management - Process engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. My responsibilities  included:
 *  __Research, documentation and mapping of existing processes and data flows__ 
 *  __Designed and implementing solutions for__:
