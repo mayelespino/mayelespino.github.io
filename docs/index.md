@@ -83,7 +83,7 @@
  <tr>
  <td><b>Rust</b></td>
   <td>Learning</td>
-  <td>Self taught, online training classe.</td>
+  <td>Self taught, online training classes.</td>
  </tr>
 </table>
 
@@ -262,7 +262,7 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 <table>
   <tr>
-   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="80" height="80"> </td>
+   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="50" height="50"> </td>
    <td><B> PayPal </B></td>
    <td><B> October 2006 to May 2014 </B></td>
   </tr>
