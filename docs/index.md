@@ -96,6 +96,7 @@
   <td>5 years</td>
   <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.</td>
  </tr>
+ </table>
  
  ### Databases
  
@@ -132,24 +133,14 @@
   </tr>
   <tr>
    <td><b>Windows</b></td>
-   <td>10 years</td>
+   <td>7 years</td>
    <td>Software Development in C++, Java and C#.</td>
   </tr>
 </table>
     
-
-### Web development
-
-<table>
- <tr>
-  <td><b>PHP</b></td>
-  <td>01 year</td>
-  <td>Developed in-house applications for test tool.</td>
- </tr>
- </table>
-
-
+    
 ### Other
+
 <table>
   <tr>
   <td><b>Middleware: Tuxedo, MQSeries, Azure Event hub</b></td>
@@ -160,6 +151,11 @@
   <td><b>Project lead and management</b></td>
   <td>07 years</td>
   <td>Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking.</td>
+ </tr>
+ <tr>
+  <td><b>PHP</b></td>
+  <td>learning</td>
+  <td>Developed in-house applications for test tool.</td>
  </tr>
  <tr>
   <td><b>Internet security</b></td>
