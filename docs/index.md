@@ -8,11 +8,11 @@
     </colgroup>
 
  <tr>
-      <td><b>Mobile:</b>(510)512-5323</td> 
-      <td><b>email:</b>job@mayel.info</td> 
+      <td><b>(510)512-5323</b></td> 
+      <td><b>job@mayel.info</b></td> 
       <td>
          <a href="https://www.linkedin.com/in/mayelespino/">
-            <img src="images/linkedin.jpg" alt="linkedin" width="100" height="90">
+             <b>LinkedIn Profile</b>
          </a>
        </td>
        <td>
