@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-## Highlights
+# Highlights
 
 * Received award for [Microsoft patent submission](images/patent-award.JPG).
 * Received 2 applause awards at Symantec
@@ -35,9 +35,9 @@
 * My team won the first place in CQES first “hack-a-thon” at PayPal
 * Received the “PayPalian” award for the Airlines Project
 
-## Skill Set
+# Skill Set
 
-### Programming languanges
+## Programming languanges
 
 <table>
  <tr>
@@ -83,7 +83,7 @@
 </table>
 
 
-### Infrastructure
+## Infrastructure
 
 <table>
  <tr>
@@ -94,12 +94,12 @@
  <tr>
   <td><b>Cloud computing</b></td>
   <td>5 years</td>
-  <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.</td>
+  <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.
+  </td>
  </tr>
  </table>
  
- 
- ### Databases
+## Databases
  
  <table>
  <tr>
@@ -114,7 +114,7 @@
  </tr>
 </table>
 
-### Operating Systems
+## Operating Systems
 
 <table>
  <tr>
@@ -138,9 +138,9 @@
    <td>Software Development in C++, Java and C#.</td>
   </tr>
 </table>
-    
-    
-### Other
+
+
+## Other
 
 <table>
   <tr>
