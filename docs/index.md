@@ -80,6 +80,11 @@
   <td>Learning</td>
   <td>Implementin a set of C# microservices (Azure Functions) arround a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
+ <tr>
+ <td><b>Rust</b></td>
+  <td>Learning</td>
+  <td>Self taught, online training classe.</td>
+ </tr>
 </table>
 
 
