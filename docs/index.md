@@ -184,17 +184,10 @@
 
 
  `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. My responsibilities  included:
-*  __Research, documentation and mapping of existing processes and data flows__ 
-*  __Designed and implementing solutions for__:
-*  __Halcyon__ A graphdb to map the complex relationships between: hardware assets, data producers, data consumers, processes and tools.
-*  __Event bus__: An interface for fleet tools to publish key events and for tools to subscribe to the topics so that they can be triggered and process key events in real time.
-*  __Reconciliation engine__: A scalable, real time framework to validate that what is handed over and what is received match. For example: When we receive an hardware order, reconcile what is received at the docks with what was ordered.
-*  __Validation engine__ : A scalable, real time framework to check that the sequence of events being published occur in the correct sequence. To measure and quantify the gaps and measure the progress of the changes we make.
 *  __Stood up infrastructure for Trix__ : Created  the production and development environments, which included AKS clusters, docker registries, a traffic manager profile, keyvautls, etcetera.
-
-`Fleet management`: During the first months in the team, I my responsibilities included:
+*  __Development in Go__ Tools for deploymnet and infrastructure management of Trix.
+*  __Development in C#__ Developed *Halcyon*, a modeling tool based on a graph database.
 *  __Deprecating  Core XT for DND and onboarding to Onebranch__: Onebranch is the internal build and deployment pipeline that is gaining support across the entire company. CoreXT is a cumbersome legacy framework which I replaced in favor of the new standard .NET libraries and framework which is used outside the company and have much better support.
-*  __New hire exercise__: The best way to onboard a new hire is  going through the same process and using the same tools their teammates use day to day. I created a new hire exercise to implement this for new fleet engineers.
 
 <table>
   <tr>
