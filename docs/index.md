@@ -47,7 +47,7 @@
  </tr>
  <tr>
   <td><b>C++</b></td>
-  <td>16 years</td>
+  <td>12 years</td>
   <td>Added 4 mayor features to credit card processing (back-end) servers and also process massive transaction files. One mayor feature was the airline ticket processing for PayPal.</td>
  </tr>
  <tr>
