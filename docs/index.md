@@ -16,7 +16,7 @@
          </a>
        </td>
        <td>
-          <a href="short.md">Short Version</a>
+          <a href="https://mayelespino.github.io/short.md">Short Version</a>
        </td>
        <td>
            <button onclick="window.print()">Print this page</button>
