@@ -16,13 +16,14 @@
          </a>
        </td>
        <td>
-          [Short Version](short.md)
-       </td>
-       <td>
            <button onclick="window.print()">Print this page</button>
        </td>
 </tr>
 </table>
+
+
+[Short Version](short.md)
+
 
 # Highlights
 
