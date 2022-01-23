@@ -16,9 +16,6 @@
          </a>
        </td>
        <td>
-          <a href="short.md">Short Version</a>
-       </td>
-       <td>
            <button onclick="window.print()">Print this page</button>
        </td>
 </tr>
@@ -177,7 +174,6 @@
 
 <table>
   <tr>
-   <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
    <td><B>Microsoft</B></td>
    <td><B>February 2018 to Present</B></td>
   </tr>
@@ -194,7 +190,6 @@
 
 <table>
   <tr>
-   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="50" height="50"></td>
    <td><B>Apple</B></td>
    <td><B>April 2016 to December 2017</B></td>
   </tr>
@@ -211,7 +206,6 @@
 
 <table>
   <tr>
-   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> </td>
    <td><B> FireEye </B></td>
    <td><B> October 2015 to April 2016 </B></td>
   </tr>
@@ -224,7 +218,6 @@
 
 <table>
   <tr>
-   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="50" height="50"> </td>
    <td><B> Ooyala </B></td>
    <td><B> March 2015 to August 2015 </B></td>
   </tr>
@@ -241,7 +234,6 @@ __Guide and support__ product engineering teams in making full use of the platfo
 
 <table>
   <tr>
-   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="50" height="50"> </td>
    <td><B> Symantec </B></td>
    <td><B> May 2014 to March 2015 </B></td>
   </tr>
@@ -253,12 +245,11 @@ __Held online meetings with customers__ to help them resolve difficult issues.
 __Designed and implemented__ a “HotFix” process for quick delivery of code fixes or patches to customers. 
 __Developed__ “Analog”, an application log analysis tool. Created a SymExchange space for CRT support
 
-`Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging.`
+`Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabbit MQ, messaging.`
 
 
 <table>
   <tr>
-   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="50" height="50"> </td>
    <td><B> PayPal </B></td>
    <td><B> October 2006 to May 2014 </B></td>
   </tr>
@@ -285,38 +276,10 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 `C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
 
-<table>
-  <tr>
-   <td> <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="50" height="50"> </td>
-   <td><B> E*trade </B></td>
-   <td><B> February 2006 to September 2006 </B></td>
-   <td>C++, Tuxedo, Java, Perl & SQL, Linux.</td>
-  </tr>
-  <tr>
-   <td> <img src="images/kabira.png" alt="Kabira"> </td>
-   <td><B> Kabira </B></td>
-   <td><B> August 2005 to January 2006 </B></td>
-   <td>Kabira’s proprietary language C++, Solaris Unix.</td>
-  </tr>
-  <tr>
-   <td> <img src="images/verizon-squarelogo-1487720317378.png" > </td>
-   <td><B> Verizon </B></td>
-   <td><B> 1996 to 2004 </B></td>
-   <td> C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.</td>
-  </tr>
-  <tr>
-   <td> <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="50" height="50"></td>
-   <td><B> Candle Corporation </B></td>
-   <td><B> 1991 to 1996 </B></td>
-   <td>Candle’s proprietary languages, C++, Rexx, assembler. Project Management.</td>
-  </tr>
-</table>
-
 
 # Education
 <table>
  <tr>
-  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="80" height="60"></td>
   <td> <b>U.A.C.J.</b></td>
   <td>1984 - 1990</td>
   <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
