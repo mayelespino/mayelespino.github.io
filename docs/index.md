@@ -168,11 +168,7 @@
 `Office of the CTO` : This team designs, promotes, implememts common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
 
- `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. My responsibilities  included:
-*  __Stood up infrastructure for Trix__ : Created  the production and development environments, which included AKS clusters, docker registries, a traffic manager profile, keyvautls, etcetera.
-*  __Development in Go__ Tools for deploymnet and infrastructure management of Trix.
-*  __Development in C#__ Developed *Halcyon*, a modeling tool based on a graph database.
-*  __Deprecating  Core XT for DND and onboarding to Onebranch__: Onebranch is the internal build and deployment pipeline that is gaining support across the entire company. CoreXT is a cumbersome legacy framework which I replaced in favor of the new standard .NET libraries and framework which is used outside the company and have much better support.
+ `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. 
 
 <table>
   <tr>
