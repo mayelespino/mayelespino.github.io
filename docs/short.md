@@ -43,7 +43,7 @@
 <table>
  <tr>
   <td><b>C</b></td>
-  <td>20 years</td>
+  <td>15 years</td>
   <td> Update and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. Wrote a driver to control tape drive for Fedex vendors to ship files, to process thousands of files daily.</td>
  </tr>
  <tr>
@@ -53,32 +53,17 @@
  </tr>
  <tr>
   <td><b>Python</b></td>
-  <td>07 years</td>
+  <td>7 years</td>
   <td>Wrote command line utility to drive the in-house deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
- </tr>
-<tr>
-  <td><b>Java</b></td>
-  <td>02 years</td>
-  <td>Created wab application using servlets to run and monitor Maven test cases.</td>
- </tr>
- <tr>
-  <td><b>Assembler</b></td>
-  <td> 01 years</td>
-  <td>Wrote embedded systems in college. Extended a proprietary (SSPL) language to add methods for writing files.</td>
- </tr>
- <tr>
-   <td><b>Ruby</b></td>
-   <td>Learning</td>
-   <td>Developed puppet modules, Developed Chef recipes and tests on mixed cloud and bare metal farms or hosts.</td>
  </tr>
  <tr>
   <td><b>GO</b></td>
-  <td>Learning</td>
+  <td>1 year</td>
   <td>Have completed training classes, Completed a one day training on TiniGO (IoT).</td>
  </tr>
  <tr>
   <td><b>C#</b></td>
-  <td>Learning</td>
+  <td>1 year</td>
   <td>Implementing a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
  <tr>
@@ -183,11 +168,7 @@
 `Office of the CTO` : This team designs, promotes, implememts common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
 
- `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. My responsibilities  included:
-*  __Stood up infrastructure for Trix__ : Created  the production and development environments, which included AKS clusters, docker registries, a traffic manager profile, keyvautls, etcetera.
-*  __Development in Go__ Tools for deploymnet and infrastructure management of Trix.
-*  __Development in C#__ Developed *Halcyon*, a modeling tool based on a graph database.
-*  __Deprecating  Core XT for DND and onboarding to Onebranch__: Onebranch is the internal build and deployment pipeline that is gaining support across the entire company. CoreXT is a cumbersome legacy framework which I replaced in favor of the new standard .NET libraries and framework which is used outside the company and have much better support.
+ `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. 
 
 <table>
   <tr>
