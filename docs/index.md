@@ -42,7 +42,7 @@
 <table>
  <tr>
   <td><b>C</b></td>
-  <td>20 years</td>
+  <td>15 years</td>
   <td> Update and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. Wrote a driver to control tape drive for Fedex vendors to ship files, to process thousands of files daily.</td>
  </tr>
  <tr>
@@ -52,32 +52,17 @@
  </tr>
  <tr>
   <td><b>Python</b></td>
-  <td>07 years</td>
+  <td>7 years</td>
   <td>Wrote command line utility to drive the in-house deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
- </tr>
-<tr>
-  <td><b>Java</b></td>
-  <td>02 years</td>
-  <td>Created wab application using servlets to run and monitor Maven test cases.</td>
- </tr>
- <tr>
-  <td><b>Assembler</b></td>
-  <td> 01 years</td>
-  <td>Wrote embedded systems in college. Extended a proprietary (SSPL) language to add methods for writing files.</td>
- </tr>
- <tr>
-   <td><b>Ruby</b></td>
-   <td>Learning</td>
-   <td>Developed puppet modules, Developed Chef recipes and tests on mixed cloud and bare metal farms or hosts.</td>
  </tr>
  <tr>
   <td><b>GO</b></td>
-  <td>Learning</td>
+  <td>1 year</td>
   <td>Have completed training classes, Completed a one day training on TiniGO (IoT).</td>
  </tr>
  <tr>
   <td><b>C#</b></td>
-  <td>Learning</td>
+  <td>1 year</td>
   <td>Implementing a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
  <tr>
@@ -93,7 +78,7 @@
 <table>
  <tr>
   <td><b>Configuration management</b></td>
-  <td>05 years</td>
+  <td>5 years</td>
   <td>Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.</td>
  </tr>
  <tr>
@@ -114,7 +99,7 @@
  </tr>
  <tr>
   <td><b>NoSQL Databases: Cassandra, Mongo, Graph databases</b></td>
-  <td>04 years</td>
+  <td>4 years</td>
   <td>Installed, developed code to read and write.</td>
  </tr>
 </table>
@@ -134,7 +119,7 @@
   </tr>
   <tr>
    <td><b>MVS</b></td>
-   <td>04 years</td>
+   <td>4 years</td>
    <td>Wrote applications C, REX, and proprietary languages.</td>
   </tr>
   <tr>
@@ -176,7 +161,7 @@
   <tr>
    <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
    <td><B>Microsoft</B></td>
-   <td><B>February 2018 to Present</B></td>
+   <td><B>February 2018 to April 2022</B></td>
   </tr>
 </table>
 
