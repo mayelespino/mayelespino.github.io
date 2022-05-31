@@ -44,32 +44,25 @@
  <tr>
   <td><b>C</b></td>
   <td>15 years</td>
-  <td> Update and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. Wrote a driver to control tape drive for Fedex vendors to ship files, to process thousands of files daily.</td>
- </tr>
  <tr>
   <td><b>C++</b></td>
   <td>12 years</td>
-  <td>Added 4 mayor features to credit card processing (back-end) servers and also process massive transaction files. One mayor feature was the airline ticket processing for PayPal.</td>
  </tr>
  <tr>
   <td><b>Python</b></td>
   <td>7 years</td>
-  <td>Wrote command line utility to drive the in-house deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
  </tr>
  <tr>
   <td><b>GO</b></td>
   <td>1 year</td>
-  <td>Have completed training classes, Completed a one day training on TiniGO (IoT).</td>
  </tr>
  <tr>
   <td><b>C#</b></td>
   <td>1 year</td>
-  <td>Implementing a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
  <tr>
  <td><b>Rust</b></td>
   <td>Learning</td>
-  <td>Self taught, online training classes.</td>
  </tr>
 </table>
 
@@ -80,13 +73,10 @@
  <tr>
   <td><b>Configuration management</b></td>
   <td>05 years</td>
-  <td>Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.</td>
  </tr>
  <tr>
   <td><b>Cloud computing</b></td>
   <td>5 years</td>
-  <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.
-  </td>
  </tr>
  </table>
  
@@ -96,12 +86,10 @@
  <tr>
   <td><b>Relational data bases: Oracle, Sybase, MySQL</b></td>
   <td>10 years</td>
-  <td>Schema design, SQL and PSQL programming.</td>
  </tr>
  <tr>
   <td><b>NoSQL Databases: Cassandra, Mongo, Graph databases</b></td>
   <td>04 years</td>
-  <td>Installed, developed code to read and write.</td>
  </tr>
 </table>
 
@@ -111,22 +99,18 @@
  <tr>
   <td><b> Linux</b></td>
   <td>14 years</td>
-  <td>Systems Administration and management, Process and service monitoring.</td>
  </tr>
  <tr>
   <td><b>Unix</b></td>
    <td>11 years</td>
-   <td>Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix.</td>
   </tr>
   <tr>
    <td><b>MVS</b></td>
    <td>04 years</td>
-   <td>Wrote applications C, REX, and proprietary languages.</td>
   </tr>
   <tr>
    <td><b>Windows</b></td>
    <td>7 years</td>
-   <td>Software Development in C++, Java and C#.</td>
   </tr>
 </table>
 
@@ -137,22 +121,18 @@
   <tr>
   <td><b>Middleware: Tuxedo, MQSeries, Azure Event hub</b></td>
   <td>04 years</td>
-  <td>Installed and developed code to publish and subscribe to messages.</td>
  </tr>
  <tr>
   <td><b>Project lead and management</b></td>
   <td>07 years</td>
-  <td>Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking.</td>
  </tr>
  <tr>
   <td><b>PHP</b></td>
   <td>learning</td>
-  <td>Developed in-house applications for test tool.</td>
  </tr>
  <tr>
   <td><b>Internet security</b></td>
   <td>2 years</td>
-  <td>Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.</td>
  </tr>
  </table>
 
