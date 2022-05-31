@@ -159,6 +159,14 @@
 
 <table>
   <tr>
+   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="50" height="50"></td>
+   <td><B>Starbucks</B></td>
+   <td><B>April 2022 to Present</B></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
    <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
    <td><B>Microsoft</B></td>
    <td><B>February 2018 to April 2022</B></td>
