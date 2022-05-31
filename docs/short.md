@@ -277,19 +277,8 @@ __Project managed and developer__ code for several large scale, credit card paym
   <td><a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a></td>
  </tr>
  <tr>
-  <td>     </td>
-  <td><b>Colorado Technical University</b></td>
-  <td>1998 & 1999</td>
-  <td>C++ and Object Oriented certifications.</td>
-  <td><a href="https://www.coloradotechonline.com">Colorado Tech.</a></td>
- </tr>
  </table>
 
-# Personal projects
-- [Code examples](https://github.com/mayelespino/code). -  Some code exercises i've done.
-- [Picron](https://youtu.be/hJEf7LCYN3s). - This is my REST API driven alarm clock and home alarm. The code is [here](https://github.com/mayelespino/raspberry-pi/tree/master/picron).
-- [Home Monitoring system](http://17440hd.ngrok.io). - This project is comprised of two raspberry pies, one web server and one to manage the sensors. The code is [here](https://github.com/mayelespino/raspberry-pi/tree/master/gate)
-- [My personal page](http://www.mayelespino.com)
 
 _____
 
