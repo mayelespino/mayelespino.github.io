@@ -44,15 +44,10 @@
  <tr>
   <td><b>C</b></td>
   <td>15 years</td>
- <tr>
   <td><b>C++</b></td>
   <td>12 years</td>
- </tr>
- <tr>
   <td><b>Python</b></td>
   <td>7 years</td>
- </tr>
- <tr>
   <td><b>GO</b></td>
   <td>1 year</td>
  </tr>
@@ -73,8 +68,6 @@
  <tr>
   <td><b>Configuration management</b></td>
   <td>05 years</td>
- </tr>
- <tr>
   <td><b>Cloud computing</b></td>
   <td>5 years</td>
  </tr>
@@ -86,8 +79,6 @@
  <tr>
   <td><b>Relational data bases: Oracle, Sybase, MySQL</b></td>
   <td>10 years</td>
- </tr>
- <tr>
   <td><b>NoSQL Databases: Cassandra, Mongo, Graph databases</b></td>
   <td>04 years</td>
  </tr>
@@ -99,16 +90,10 @@
  <tr>
   <td><b> Linux</b></td>
   <td>14 years</td>
- </tr>
- <tr>
   <td><b>Unix</b></td>
    <td>11 years</td>
-  </tr>
-  <tr>
    <td><b>MVS</b></td>
    <td>04 years</td>
-  </tr>
-  <tr>
    <td><b>Windows</b></td>
    <td>7 years</td>
   </tr>
@@ -121,16 +106,12 @@
   <tr>
   <td><b>Middleware: Tuxedo, MQSeries, Azure Event hub</b></td>
   <td>04 years</td>
- </tr>
- <tr>
   <td><b>Project lead and management</b></td>
   <td>07 years</td>
  </tr>
  <tr>
   <td><b>PHP</b></td>
   <td>learning</td>
- </tr>
- <tr>
   <td><b>Internet security</b></td>
   <td>2 years</td>
  </tr>
