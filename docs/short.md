@@ -160,8 +160,17 @@
 
 <table>
   <tr>
+   <td><B>Starbucks</B></td>
+   <td><B>May 2022i to present</B></td>
+  </tr>
+</table>
+
+`DPCE`: 
+
+<table>
+  <tr>
    <td><B>Microsoft</B></td>
-   <td><B>February 2018 to Present</B></td>
+   <td><B>February 2018 to April 2022</B></td>
   </tr>
 </table>
 
