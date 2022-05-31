@@ -50,12 +50,8 @@
   <td>7 years</td>
   <td><b>GO</b></td>
   <td>1 year</td>
- </tr>
- <tr>
   <td><b>C#</b></td>
   <td>1 year</td>
- </tr>
- <tr>
  <td><b>Rust</b></td>
   <td>Learning</td>
  </tr>
