@@ -167,6 +167,7 @@ _____
   </tr>
 </table>
 
+`Splunk Cloud`
 
 
 <table>
@@ -178,6 +179,8 @@ _____
 </table>
 
 `Digital Platform Customer Engangement` : Updated code used in Starbuck's cloud services for mobile applications. 
+
+`c# and .NET`
 
 <table>
   <tr>
@@ -196,6 +199,8 @@ _____
  
  * __Computing System Simulation And Testing Environment__ Ideated, designed and implemented the minimal viable product for a tool used to model computationally processes, data flows, services and their complex relationships. 
  * __Asset traceability__ I participated in the development of tools and services which improved the traceability of assets across Azure. 
+
+`c#, Gremlin, GraphDB, AKWS, Go, Python, Kusto`
 
 <table>
   <tr>
