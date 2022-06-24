@@ -12,6 +12,12 @@
        <td>
            <button onclick="window.print()">Print this page</button>
        </td>
+       <td>
+         <a href="https://mayelespino.github.io">
+         Regular version
+         </a>
+     </td>
+
 </tr>
 </table>
 
