@@ -11,13 +11,16 @@
       <td><b>(510)512-5323</b></td> 
       <td><b>job@mayel.info</b></td> 
       <td>
-         <a href="https://www.linkedin.com/in/mayelespino/">
-             <b>LinkedIn Profile</b>
-         </a>
-       </td>
-       <td>
-           <button onclick="window.print()">Print this page</button>
-       </td>
+        <a href="https://www.linkedin.com/in/mayelespino/">
+            <b>LinkedIn Profile</b>
+        </a>
+     </td>
+     <td>
+        <button onclick="window.print()">Print this page</button>
+     </td>
+     <td>
+         <a href="https://mayelespino.github.io/short.html">Short version</a>
+     </td>
 </tr>
 </table>
 
