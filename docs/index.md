@@ -159,11 +159,23 @@
 
 <table>
   <tr>
-   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="50" height="50"></td>
-   <td><B>Starbucks</B></td>
-   <td><B>April 2022 to Present</B></td>
+   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Splunk" width="50" height="50"></td>
+   <td><B>Splunk</B></td>
+   <td><B>June 2022 to Present</B></td>
   </tr>
 </table>
+
+
+
+<table>
+  <tr>
+   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="45" height="45"></td>
+   <td><B>Starbucks</B></td>
+   <td><B>April 2022 to June 2022</B></td>
+  </tr>
+</table>
+
+`Digital Platform Customer Engangement` : Updated code used in Starbuck's cloud services for mobile applications. 
 
 <table>
   <tr>
@@ -173,10 +185,15 @@
   </tr>
 </table>
 
-`Office of the CTO` : This team designs, promotes, implememts common solutions accross the Azure organization by collaborating with varios teams with in the organization.
+`Office of the CTO` : This team designs, promotes, implements common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
+* __Process and Data analytics__ I analized the code base, the call stack and the data produced by various services to obtain information needed to create reports, alerting and monitoring tools.
+* __System design and proof of concept implementation__ In varions projects our team's role was to implememt common solutions accross the Azure organization . As part of that effort, I participated in the design and develop a minimal viable productof the solutions that we proposed and co-developed with and for various teams with in Azure. In some cases we implemented the complete solution and handed ownership to on of the partner teams.
 
  `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. 
+ 
+ * __Computing System Simulation And Testing Environment__ Ideated, designed and implemented the minimal viable product for a tool used to model computationally processes, data flows, services and their complex relationships. 
+ * __Asset traceability__ I participated in the development of tools and services which improved the traceability of assets across Azure. 
 
 <table>
   <tr>
