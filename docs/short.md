@@ -1,13 +1,6 @@
 <font size="1"/> 
 
-<table width="100%">
-    <colgroup>
-       <col span="1" style="width: 40%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 20%;">
-    </colgroup>
-
+<table>
  <tr>
       <td><b>(510)512-5323</b></td> 
       <td><b>job@mayel.info</b></td> 
@@ -117,24 +110,46 @@
 
 <table>
   <tr>
-   <td><B>Starbucks</B></td>
-   <td><B>May 2022i to present</B></td>
+   <td><img src="images/splunk-logo.webp" alt="Splunk" width="55" height="50"></td>
+   <td><B>Splunk</B></td>
+   <td><B>June 2022 to Present</B></td>
   </tr>
 </table>
 
-`DPCE`: 
+`Splunk Cloud`
+
 
 <table>
   <tr>
+   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="45" height="45"></td>
+   <td><B>Starbucks</B></td>
+   <td><B>April 2022 to June 2022</B></td>
+  </tr>
+</table>
+
+`Digital Platform Customer Engangement` : Updated code used in Starbuck's cloud services for mobile applications. 
+
+`c# and .NET`
+
+<table>
+  <tr>
+   <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
    <td><B>Microsoft</B></td>
    <td><B>February 2018 to April 2022</B></td>
   </tr>
 </table>
 
-`Office of the CTO` : This team designs, promotes, implememts common solutions accross the Azure organization by collaborating with varios teams with in the organization.
+`Office of the CTO` : This team designs, promotes, implements common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
+__Process and Data analytics__ I analized the code base, the call stack and the data produced by various services to obtain information needed to create reports, alerting and monitoring tools.
+ __System design and proof of concept implementation__ In varions projects our team's role was to implememt common solutions accross the Azure organization . As part of that effort, I participated in the design and develop a minimal viable productof the solutions that we proposed and co-developed with and for various teams with in Azure. In some cases we implemented the complete solution and handed ownership to on of the partner teams.
 
  `FleetProcess engineering`: This team was created to find solve gaps in: Our processes and tools used to manage/track Azure's hardware assets around the world. 
+ 
+ __Computing System Simulation And Testing Environment__ Ideated, designed and implemented the minimal viable product for a tool used to model computationally processes, data flows, services and their complex relationships. 
+ __Asset traceability__ I participated in the development of tools and services which improved the traceability of assets across Azure. 
+
+`c#, Gremlin, GraphDB, AKWS, Go, Python, Kusto`
 
 <table>
   <tr>
@@ -145,9 +160,9 @@
 
 `Software engineer - AML Infrastructure Engineering` : As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site. My responsabilites included:
 
-*  __Release Management__ Deployed code to production and non-production environments. Help coordinate the use of the non-production environments with multiple development teams.
-* __Triage__ Managed ticket queue. Assigned tickets to developers and other team members. Help Development team in debugging and root cause analysis.
-* __Crisis Management__ Participated in the on-call rotation for  High priority tickets tickets.
+__Release Management__ Deployed code to production and non-production environments. Help coordinate the use of the non-production environments with multiple development teams.
+__Triage__ Managed ticket queue. Assigned tickets to developers and other team members. Help Development team in debugging and root cause analysis.
+__Crisis Management__ Participated in the on-call rotation for  High priority tickets tickets.
 
 `saltstack - python - bash scripting - Ansible - Cassandra - Hadoop`
 
@@ -233,9 +248,7 @@ __Project managed and developer__ code for several large scale, credit card paym
   <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
   <td><a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a></td>
  </tr>
- <tr>
  </table>
-
 
 _____
 
