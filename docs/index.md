@@ -159,7 +159,7 @@
 
 <table>
   <tr>
-   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Splunk" width="50" height="50"></td>
+   <td><img src="images/splunk-logo.webp" alt="Splunk" width="55" height="50"></td>
    <td><B>Splunk</B></td>
    <td><B>June 2022 to Present</B></td>
   </tr>
