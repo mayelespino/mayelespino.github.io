@@ -181,7 +181,9 @@ _____
   </tr>
 </table>
 
-`Digital Platform Customer Engangement` : Updated code used in Starbuck's cloud services for mobile applications. 
+`Customer Engangement` : This team is responsible for customer facing digital platform APIs and services that are critical to Starbucks' customer digital experience.
+
+  * Updated code used in Starbuck's cloud services for mobile applications. 
 
 `c# and .NET`
 
