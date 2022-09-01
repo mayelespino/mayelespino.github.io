@@ -166,12 +166,15 @@ _____
   <tr>
    <td><img src="images/splunk-logo.webp" alt="Splunk" width="55" height="50"></td>
    <td><B>Splunk</B></td>
-   <td><B>June 2022 to Present</B></td>
+   <td><B>June 2022 to July 2022</B></td>
   </tr>
 </table>
 
-`Splunk Cloud`
+`Cloud access team:` This team provides the tools and infrastructure for the internal Cloud security team.
 
+  * Created a serverless microservice to modify user accounts for returning employees.
+
+`GO, Python, AWS`
 
 <table>
   <tr>
