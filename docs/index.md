@@ -166,7 +166,7 @@ _____
   <tr>
    <td><img src="images/splunk-logo.webp" alt="Splunk" width="55" height="50"></td>
    <td><B>Splunk</B></td>
-   <td><B>June 2022 to July 2022</B></td>
+   <td><B>June 2022 to August 2022</B></td>
   </tr>
 </table>
 
