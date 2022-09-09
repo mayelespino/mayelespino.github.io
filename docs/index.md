@@ -173,8 +173,12 @@ _____
 `Cloud access team:` This team provides the tools and infrastructure for the internal Cloud security team.
 
   * Created a serverless microservice to modify user accounts for returning employees.
+  * Created a simple CI/CD pipeline for the microservice to modify user accounts, including:
+    * YAML pipline config file.
+    * Python unit tests.
+    * Terraform files.
 
-`GO, Python, AWS`
+`GO, Python, AWS, CI/CD`
 
 <table>
   <tr>
@@ -187,6 +191,8 @@ _____
 `Customer Engangement` : This team is responsible for customer facing digital platform APIs and services that are critical to Starbucks' customer digital experience.
 
   * Updated code used in Starbuck's cloud services for mobile applications. 
+    * Refactored service calls, to allow to migrate service from on-prem to cloud.
+    * Refactored test framework.
 
 `c# and .NET`
 
