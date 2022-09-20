@@ -117,7 +117,7 @@
 <table>
   <tr>
    <td><img src="images/splunk-logo.webp" alt="Splunk" width="55" height="50"></td>
-   <td><B>Splunk</B></td>
+   <td><B>Splunk - [Contract]</B></td>
    <td><B>June 2022 to August 2022</B></td>
   </tr>
 </table>
@@ -135,7 +135,7 @@
 <table>
   <tr>
    <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="45" height="45"></td>
-   <td><B>Starbucks</B></td>
+   <td><B>Starbucks - [Contract]</B></td>
    <td><B>April 2022 to June 2022</B></td>
   </tr>
 </table>
