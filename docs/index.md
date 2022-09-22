@@ -188,7 +188,7 @@ _____
   </tr>
 </table>
 
-`Customer Engangement` : This team is responsible for customer facing digital platform APIs and services that are critical to Starbucks' customer digital experience.
+`Customer Engagement` : This team is responsible for customer facing digital platform APIs and services that are critical to Starbucks' customer digital experience.
 
   * Updated code used in Starbuck's cloud services for mobile applications. 
     * Refactored service calls, to allow to migrate service from on-prem to cloud.
