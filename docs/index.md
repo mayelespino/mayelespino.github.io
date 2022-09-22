@@ -46,17 +46,17 @@
  <tr>
   <td><b>C</b></td>
   <td>15 years</td>
-  <td> Update and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. Wrote a driver to control tape drive for Fedex vendors to ship files, to process thousands of files daily.</td>
+  <td> I updated and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. I wrote a driver to control tape a drive to process thousands of files daily for the Fedex data ingestion software.</td>
  </tr>
  <tr>
   <td><b>C++</b></td>
   <td>12 years</td>
-  <td>Added 4 mayor features to credit card processing (back-end) servers and also process massive transaction files. One mayor feature was the airline ticket processing for PayPal.</td>
+  <td>I added four major features to credit card processing (back-end) servers. These servers process massive transaction files. One major feature was the airline ticket processing for PayPal.</td>
  </tr>
  <tr>
   <td><b>Python</b></td>
   <td>7 years</td>
-  <td>Wrote command line utility to drive the in-house deployment system, and used it to drive the end to end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved:  Messaging/middleware systems, Monitoring tools, REST services.</td>
+  <td>I wrote a command line utility to drive the in-house deployment system, and used it to drive the end-to-end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved messaging and middleware systems, monitoring tools, and REST services.</td>
  </tr>
  <tr>
   <td><b>GO</b></td>
@@ -66,12 +66,13 @@
  <tr>
   <td><b>C#</b></td>
   <td>2 years</td>
-  <td>Implementing a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams and their complex relationships.</td>
+  <td>I implemented a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams, and their complex relationships.
+  </td>
  </tr>
  <tr>
  <td><b>Rust</b></td>
   <td>Learning</td>
-  <td>Self taught, online training classes.</td>
+  <td>Self-taught, online training classes.</td>
  </tr>
 </table>
 
