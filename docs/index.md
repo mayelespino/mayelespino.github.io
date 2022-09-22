@@ -60,12 +60,12 @@
  </tr>
  <tr>
   <td><b>GO</b></td>
-  <td>1 year</td>
-  <td>Have completed training classes, Completed a one day training on TiniGO (IoT).</td>
+  <td>2 years</td>
+  <td>I worked on a barcode service, globally distributed and highly available, as well as the deployment and test infrastructure for said service.</td>
  </tr>
  <tr>
   <td><b>C#</b></td>
-  <td>1 year</td>
+  <td>2 years</td>
   <td>Implementing a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams and their complex relationships.</td>
  </tr>
  <tr>
