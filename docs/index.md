@@ -57,6 +57,7 @@
 | Cloud computing | 5 years | Provisioned and managed nodes in Azure, AWS and OpenStack Stand up and manage a few Kubernetes clusters in development and production environments. |
  
 ### Databases
+
 |    |    |    |
 |----|----|----|
 | Relational data bases: Oracle, Sybase, MySQL |  10 years | Schema design, SQL and PSQL programming. |
@@ -89,6 +90,7 @@
 
 
 ### Other
+
 |    |    |    |
 |----|----|----|
 | Middleware: Tuxedo, MQSeries, Azure Event hub | 04 years | Installed and developed code to publish and subscribe to messages. |
@@ -113,7 +115,7 @@
 
 <table>
   <tr>
-   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="30" height="30"></td>
+   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="25" height="25"></td>
    <td><B>Starbucks - [Contract]</B></td>
    <td><B>April 2022 to June 2022</B></td>
   </tr>
@@ -149,7 +151,7 @@
 
 <table>
   <tr>
-   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="25" height="25"></td>
+   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="30" height="30"></td>
    <td><B>Apple</B></td>
    <td><B>April 2016 to December 2017</B></td>
   </tr>
@@ -179,7 +181,7 @@
 
 <table>
   <tr>
-   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="30" height="30"> </td>
+   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="25" height="25"> </td>
    <td><B> Ooyala </B></td>
    <td><B> March 2015 to August 2015 </B></td>
   </tr>
@@ -196,7 +198,7 @@ __Guide and support__ product engineering teams in making full use of the platfo
 
 <table>
   <tr>
-   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="30" height="30"> </td>
+   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="25" height="25"> </td>
    <td><B> Symantec </B></td>
    <td><B> May 2014 to March 2015 </B></td>
   </tr>
