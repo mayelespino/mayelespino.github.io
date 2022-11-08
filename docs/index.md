@@ -178,7 +178,7 @@ _____
  </tr>
  </table>
 
-# Personal projects
+## Personal projects
 - [Code examples](https://github.com/mayelespino/code). -  Some code exercises i've done.
 - [My personal page](http://www.mayelespino.com)
 
