@@ -27,20 +27,18 @@
 # Highlights
 
 * Received award for [Microsoft patent submission](images/patent-award.JPG). The pattent application number is [20200184026](https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=Mayel.IN.&OS=IN/Mayel&RS=IN/Mayel).
-* Received 2 applause awards at Symantec
 * Inventor of 6 patents: [8,849,892](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [8,307,378](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [8,140,980](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=4&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [8,015,574](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=5&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [7,783,593](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=6&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [7,243,355](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=7&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
-* co-inventor of 1 patent: [9,661,142](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
-* My team won the first place in CQES first “hack-a-thon” at PayPal
+ and co-inventor of 1 patent: [9,661,142](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
 * Received the “PayPalian” award for the Airlines Project
 
-# Skill Set
+## Skill Set
 
-## Programming languages
+### Programming languages
 
 <table>
  <tr>
@@ -77,7 +75,7 @@
 </table>
 
 
-## Infrastructure
+### Infrastructure
 
 <table>
  <tr>
@@ -93,7 +91,7 @@
  </tr>
  </table>
  
-## Databases
+### Databases
  
  <table>
  <tr>
@@ -108,7 +106,7 @@
  </tr>
 </table>
 
-## Operating Systems
+### Operating Systems
 
 <table>
  <tr>
@@ -134,7 +132,7 @@
 </table>
 
 
-## Other
+### Other
 
 <table>
   <tr>
@@ -158,32 +156,26 @@
   <td>Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.</td>
  </tr>
  </table>
-
-_____
-
-# Experience
+ 
+## Experience
 
 <table>
   <tr>
-   <td><img src="images/splunk-logo.webp" alt="Splunk" width="55" height="50"></td>
+   <td><img src="images/splunk-logo.webp" alt="Splunk" width="30" height="30"></td>
    <td><B>Splunk - [Contract]</B></td>
    <td><B>June 2022 to August 2022</B></td>
   </tr>
 </table>
 
 `Cloud access team:` This team provides the tools and infrastructure for the internal Cloud security team.
-
   * Created a serverless microservice to modify user accounts for returning employees.
-  * Created a simple CI/CD pipeline for the microservice to modify user accounts, including:
-    * YAML pipline config file.
-    * Python unit tests.
-    * Terraform files.
+  * Created a simple CI/CD pipeline for the microservice to modify user accounts, including: YAML pipline config file, Python unit tests, Terraform files.
 
 `GO, Python, AWS, CI/CD`
 
 <table>
   <tr>
-   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="45" height="45"></td>
+   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="30" height="30"></td>
    <td><B>Starbucks - [Contract]</B></td>
    <td><B>April 2022 to June 2022</B></td>
   </tr>
@@ -199,7 +191,7 @@ _____
 
 <table>
   <tr>
-   <td><img src="images/microsoft.png" alt="Microsoft" width="50" height="50"></td>
+   <td><img src="images/microsoft.png" alt="Microsoft" width="30" height="30"></td>
    <td><B>Microsoft</B></td>
    <td><B>February 2018 to April 2022</B></td>
   </tr>
@@ -219,7 +211,7 @@ _____
 
 <table>
   <tr>
-   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="50" height="50"></td>
+   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="30" height="30"></td>
    <td><B>Apple</B></td>
    <td><B>April 2016 to December 2017</B></td>
   </tr>
@@ -236,7 +228,7 @@ _____
 
 <table>
   <tr>
-   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="50" height="50"> </td>
+   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="30" height="30"> </td>
    <td><B> FireEye </B></td>
    <td><B> October 2015 to April 2016 </B></td>
   </tr>
@@ -249,7 +241,7 @@ _____
 
 <table>
   <tr>
-   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="50" height="50"> </td>
+   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="30" height="30"> </td>
    <td><B> Ooyala </B></td>
    <td><B> March 2015 to August 2015 </B></td>
   </tr>
@@ -266,24 +258,23 @@ __Guide and support__ product engineering teams in making full use of the platfo
 
 <table>
   <tr>
-   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="50" height="50"> </td>
+   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="30" height="30"> </td>
    <td><B> Symantec </B></td>
    <td><B> May 2014 to March 2015 </B></td>
   </tr>
 </table>
 
 `Mobile Security Customer Response Team:`
+
  __Investigate and resolve__ customer issues with Symantec’s Mobility Manager server (Mobile security). 
 __Held online meetings with customers__ to help them resolve difficult issues. 
 __Designed and implemented__ a “HotFix” process for quick delivery of code fixes or patches to customers. 
 __Developed__ “Analog”, an application log analysis tool. Created a SymExchange space for CRT support
 
 `Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging.`
-
-
 <table>
   <tr>
-   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="50" height="50"> </td>
+   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="30" height="30"> </td>
    <td><B> PayPal </B></td>
    <td><B> October 2006 to May 2014 </B></td>
   </tr>
@@ -291,20 +282,15 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
-
 __Developed__ infrastructure for testing messaging infrastructure, called AMQ.
-
 `Stage Reliability Tiger Team:`
 Hand picked for __Stage Reliability tiger team__, to tackle:  “the most critical issue affecting productivity at PayPal.
 __Designed and developed__ a monitoring tool called “Argus”. Which monitors PayPal Services, 
 restarts them and sends metrics data to a backend DB for reporting and analysis.
-
 `Deployment Infrastructure`: 
 __Design and developed__ command line interface client/driver for PayPal’s Dispatcher. A Deployment System, built on top of Puppet.
-
 ` FinProd:`
 __Developed__ for the high visibility integration of Bill me latter to the PayPal website.
-
 ` FinSys: `
 __Project managed and developer__ code for several large scale, credit card payment processing projects: FDMS integration, AMEX, and Airlines.
 
@@ -312,7 +298,7 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 <table>
   <tr>
-   <td> <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="50" height="50"> </td>
+   <td> <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="30" height="30"> </td>
    <td><B> E*trade </B></td>
    <td><B> February 2006 to September 2006 </B></td>
    <td>C++, Tuxedo, Java, Perl & SQL, Linux.</td>
@@ -330,7 +316,7 @@ __Project managed and developer__ code for several large scale, credit card paym
    <td> C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.</td>
   </tr>
   <tr>
-   <td> <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="50" height="50"></td>
+   <td> <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="30" height="30"></td>
    <td><B> Candle Corporation </B></td>
    <td><B> 1991 to 1996 </B></td>
    <td>Candle’s proprietary languages, C++, Rexx, assembler. Project Management.</td>
@@ -339,10 +325,10 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 _____
 
-# Education
+## Education
 <table>
  <tr>
-  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="80" height="60"></td>
+  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="40" height="50"></td>
   <td> <b>U.A.C.J.</b></td>
   <td>1984 - 1990</td>
   <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
