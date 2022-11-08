@@ -24,7 +24,6 @@
 ## Highlights
 
 * Received award for [Microsoft patent submission](images/patent-award.JPG). The pattent application number is [20200184026](https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=Mayel.IN.&OS=IN/Mayel&RS=IN/Mayel).
-* Received 2 applause awards at Symantec
 * Inventor of 6 patents: [8,849,892](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [8,307,378](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [8,140,980](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=4&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
@@ -32,7 +31,6 @@
 [7,783,593](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=6&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [7,243,355](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=7&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
 * co-inventor of 1 patent: [9,661,142](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
-* My team won the first place in CQES first “hack-a-thon” at PayPal
 * Received the “PayPalian” award for the Airlines Project
 
 ## Skill Set
