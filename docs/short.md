@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-# Highlights
+## Highlights
 
 * Received award for [Microsoft patent submission](images/patent-award.JPG). The pattent application number is [20200184026](https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=Mayel.IN.&OS=IN/Mayel&RS=IN/Mayel).
 * Received 2 applause awards at Symantec
@@ -35,9 +35,9 @@
 * My team won the first place in CQES first “hack-a-thon” at PayPal
 * Received the “PayPalian” award for the Airlines Project
 
-# Skill Set
+## Skill Set
 
-## Programming languages
+### Programming languages
 
 <table>
  <tr>
@@ -57,7 +57,7 @@
 </table>
 
 
-## Infrastructure
+### Infrastructure
 
 <table>
  <tr>
@@ -68,7 +68,7 @@
  </tr>
  </table>
  
-## Databases
+### Databases
  
  <table>
  <tr>
@@ -79,7 +79,7 @@
  </tr>
 </table>
 
-## Operating Systems
+### Operating Systems
 
 <table>
  <tr>
@@ -95,7 +95,7 @@
 </table>
 
 
-## Other
+### Other
 
 <table>
   <tr>
@@ -112,7 +112,7 @@
  </tr>
  </table>
 
-# Experience
+## Experience
 
 <table>
   <tr>
@@ -250,7 +250,7 @@ __Project managed and developer__ code for several large scale, credit card paym
 `C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
 
 
-# Education
+## Education
 <table>
  <tr>
   <td> <b>U.A.C.J.</b></td>
