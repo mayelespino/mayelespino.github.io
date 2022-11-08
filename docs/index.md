@@ -1,9 +1,6 @@
 <font size="1"/> 
 
-*  (510)512-5323
-*  job@mayel.info
-*  <a href="https://www.linkedin.com/in/mayelespino/"><b>LinkedIn Profile</b></a>
-*  <a href="https://mayelespino.github.io/short.html">Short version</a>
+(510)512-5323 | job@mayel.info | <a href="https://www.linkedin.com/in/mayelespino/"><b>LinkedIn Profile</b></a> | <a href="https://mayelespino.github.io/short.html">Short version</a>
 
 # Highlights
 
