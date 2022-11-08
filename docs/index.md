@@ -40,71 +40,27 @@
 
 ### Programming languages
 
-<table>
- <tr>
-  <td><b>C</b></td>
-  <td>15 years</td>
-  <td> I updated and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. I wrote a driver to control tape a drive to process thousands of files daily for the Fedex data ingestion software.</td>
- </tr>
- <tr>
-  <td><b>C++</b></td>
-  <td>12 years</td>
-  <td>I added four major features to credit card processing (back-end) servers. These servers process massive transaction files. One major feature was the airline ticket processing for PayPal.</td>
- </tr>
- <tr>
-  <td><b>Python</b></td>
-  <td>7 years</td>
-  <td>I wrote a command line utility to drive the in-house deployment system, and used it to drive the end-to-end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved messaging and middleware systems, monitoring tools, and REST services.</td>
- </tr>
- <tr>
-  <td><b>GO</b></td>
-  <td>2 years</td>
-  <td>I worked on a barcode service, globally distributed and highly available, as well as the deployment and test infrastructure for said service.</td>
- </tr>
- <tr>
-  <td><b>C#</b></td>
-  <td>2 years</td>
-  <td>I implemented a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams, and their complex relationships.
-  </td>
- </tr>
- <tr>
- <td><b>Rust</b></td>
-  <td>Learning</td>
-  <td>Self-taught, online training classes.</td>
- </tr>
-</table>
-
+|    |    |    |
+|----|----|----|
+| C | 15 years |I updated and maintained homegrown messaging middleware solution which supports 12 different operating systems, 120 applications and 350K messages. I wrote a driver to control tape a drive to process thousands of files daily for the Fedex data ingestion software. |
+| C++ | 12 years | I added four major features to credit card processing (back-end) servers. These servers process massive transaction files. One major feature was the airline ticket processing for PayPal.|
+| Python | 7 years | I wrote a command line utility to drive the in-house deployment system, and used it to drive the end-to-end tests. The deployment system deployed 50 to 120 packages to >10K machines. Triage and fix bugs for a mobile security system that involved messaging and middleware systems, monitoring tools, and REST services.|
+| GO | 2 years| I worked on a barcode service, globally distributed and highly available, as well as the deployment and test infrastructure for said service. |
+| C# | 2 years | I implemented a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams, and their complex relationships.|
+| Rust | Learning | Self-taught, online training classes. |
 
 ### Infrastructure
 
-<table>
- <tr>
-  <td><b>Configuration management</b></td>
-  <td>5 years</td>
-  <td>Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack.</td>
- </tr>
- <tr>
-  <td><b>Cloud computing</b></td>
-  <td>5 years</td>
-  <td>Provisioned and managed nodes in <b>Azure, AWS and OpenStack</b>. Stand up and manage a few <b>Kubernetes</b> clusters in development and production environments.
-  </td>
- </tr>
- </table>
+|    |    |    |
+|----|----|----|
+| Configuration management | 5 years | Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack. |
+| Cloud computing | 5 years | Provisioned and managed nodes in Azure, AWS and OpenStack Stand up and manage a few Kubernetes clusters in development and production environments. |
  
 ### Databases
- 
- <table>
- <tr>
-  <td><b>Relational data bases: Oracle, Sybase, MySQL</b></td>
-  <td>10 years</td>
-  <td>Schema design, SQL and PSQL programming.</td>
- </tr>
- <tr>
-  <td><b>NoSQL Databases: Cassandra, Mongo, Graph databases</b></td>
-  <td>4 years</td>
-  <td>Installed, developed code to read and write.</td>
- </tr>
-</table>
+|    |    |    |
+|----|----|----|
+| Relational data bases: Oracle, Sybase, MySQL |  10 years | Schema design, SQL and PSQL programming. |
+| NoSQL Databases: Cassandra, Mongo, Graph databases | 4 years | Installed, developed code to read and write. |
 
 ### Operating Systems
 
@@ -133,32 +89,14 @@
 
 
 ### Other
+|    |    |    |
+|----|----|----|
+| Middleware: Tuxedo, MQSeries, Azure Event hub | 04 years | Installed and developed code to publish and subscribe to messages. |
+| Project lead and management | 07 years | Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking. |
+| PHP | learning | Developed in-house applications for test tool. |
+| Internet security | 2 years | Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.|
 
-<table>
-  <tr>
-  <td><b>Middleware: Tuxedo, MQSeries, Azure Event hub</b></td>
-  <td>04 years</td>
-  <td>Installed and developed code to publish and subscribe to messages.</td>
- </tr>
- <tr>
-  <td><b>Project lead and management</b></td>
-  <td>07 years</td>
-  <td>Lead large teams, up to 9 engineers, in design and project tracking meetings. Day to day mentoring and project tracking.</td>
- </tr>
- <tr>
-  <td><b>PHP</b></td>
-  <td>learning</td>
-  <td>Developed in-house applications for test tool.</td>
- </tr>
- <tr>
-  <td><b>Internet security</b></td>
-  <td>2 years</td>
-  <td>Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.</td>
- </tr>
- </table>
- 
 ## Experience
-
 <table>
   <tr>
    <td><img src="images/splunk-logo.webp" alt="Splunk" width="30" height="30"></td>
@@ -211,7 +149,7 @@
 
 <table>
   <tr>
-   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="30" height="30"></td>
+   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="25" height="25"></td>
    <td><B>Apple</B></td>
    <td><B>April 2016 to December 2017</B></td>
   </tr>
@@ -228,7 +166,7 @@
 
 <table>
   <tr>
-   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="30" height="30"> </td>
+   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="25" height="25"> </td>
    <td><B> FireEye </B></td>
    <td><B> October 2015 to April 2016 </B></td>
   </tr>
@@ -296,39 +234,19 @@ __Project managed and developer__ code for several large scale, credit card paym
 
 `C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
 
-<table>
-  <tr>
-   <td> <img src="images/e-trade-financial-squarelogo.png" alt="E*trade" width="30" height="30"> </td>
-   <td><B> E*trade </B></td>
-   <td><B> February 2006 to September 2006 </B></td>
-   <td>C++, Tuxedo, Java, Perl & SQL, Linux.</td>
-  </tr>
-  <tr>
-   <td> <img src="images/kabira.png" alt="Kabira"> </td>
-   <td><B> Kabira </B></td>
-   <td><B> August 2005 to January 2006 </B></td>
-   <td>Kabira’s proprietary language C++, Solaris Unix.</td>
-  </tr>
-  <tr>
-   <td> <img src="images/verizon-squarelogo-1487720317378.png" > </td>
-   <td><B> Verizon </B></td>
-   <td><B> 1996 to 2004 </B></td>
-   <td> C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.</td>
-  </tr>
-  <tr>
-   <td> <img src="images/ibm-squarelogo-1502810404854.png" alt="Candle Corporation" width="30" height="30"></td>
-   <td><B> Candle Corporation </B></td>
-   <td><B> 1991 to 1996 </B></td>
-   <td>Candle’s proprietary languages, C++, Rexx, assembler. Project Management.</td>
-  </tr>
-</table>
+|    |    |    |
+|----|----|----|
+| E*trade | February 2006 to September 2006 | C++, Tuxedo, Java, Perl & SQL, Linux. |
+| Kabira | August 2005 to January 2006 | Kabira’s proprietary language C++, Solaris Unix.|
+| Verizon | 1996 to 2004 | C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.|
+| Candle Corporation | 1991 to 1996 | Candle’s proprietary languages, C++, Rexx, assembler. Project Management. |
 
 _____
 
 ## Education
 <table>
  <tr>
-  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="40" height="50"></td>
+  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="25" height="25"></td>
   <td> <b>U.A.C.J.</b></td>
   <td>1984 - 1990</td>
   <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
