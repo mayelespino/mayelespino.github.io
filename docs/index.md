@@ -1,28 +1,9 @@
 <font size="1"/> 
-<table width="100%">
-    <colgroup>
-       <col span="1" style="width: 40%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 20%;">
-    </colgroup>
 
- <tr>
-      <td><b>(510)512-5323</b></td> 
-      <td><b>job@mayel.info</b></td> 
-      <td>
-        <a href="https://www.linkedin.com/in/mayelespino/">
-            <b>LinkedIn Profile</b>
-        </a>
-     </td>
-     <td>
-        <button onclick="window.print()">Print this page</button>
-     </td>
-     <td>
-         <a href="https://mayelespino.github.io/short.html">Short version</a>
-     </td>
-</tr>
-</table>
+*  (510)512-5323
+*  job@mayel.info
+*  <a href="https://www.linkedin.com/in/mayelespino/"><b>LinkedIn Profile</b></a>
+*  <a href="https://mayelespino.github.io/short.html">Short version</a>
 
 # Highlights
 
@@ -166,78 +147,12 @@
 `saltstack - python - bash scripting - Ansible - Cassandra - Hadoop`
 
 
-<table>
-  <tr>
-   <td> <img src="images/fireeye-squarelogo-1452294049498.png" alt="FireEye" width="25" height="25"> </td>
-   <td><B> FireEye </B></td>
-   <td><B> October 2015 to April 2016 </B></td>
-  </tr>
-</table>
-
-`FELabs Infrastructure DevOps Team:` Responsible for: Development of automated tools for monitoring, management and deployment of horizontally-scaled, highly-available cloud systems. Architected multi-datacenter monitoring facilities. Building performance and reliability metrics in a dynamic application environment. Integrate with engineering teams to provide expertise and requirements.
-
-`Ansible Tower, Prometheus, ELK Stack, Docker, Python.`
-
-
-<table>
-  <tr>
-   <td> <img src="images/ooyala-squarelogo-1510101523308.png" alt="Ooyala" width="25" height="25"> </td>
-   <td><B> Ooyala </B></td>
-   <td><B> March 2015 to August 2015 </B></td>
-  </tr>
-</table>
-
-`Site Reliability Engineering (and Infrastructure) Team:`
-__Research__ and selecting or extending the right frameworks, tools and technologies for Ooyala's core platform. 
-__Continuously improving__ and re-engineering the platform architecture to handle our rapidly growing traffic. 
-Designing and implementing clean APIs and protocols for other teams to build features on top of.
-__Troubleshooting__ and resolving critical issues with the platform. 
-__Guide and support__ product engineering teams in making full use of the platforms and tools the team provides 
-
-`Chef, Ruby, AWS, MetaCloud, Consul, Data Dog, Haproxy, Squid, Jira`
-
-<table>
-  <tr>
-   <td> <img src="images/symantec-squarelogo-1495123496483.png" alt="Symantec" width="25" height="25"> </td>
-   <td><B> Symantec </B></td>
-   <td><B> May 2014 to March 2015 </B></td>
-  </tr>
-</table>
-
-`Mobile Security Customer Response Team:`
-
- __Investigate and resolve__ customer issues with Symantec’s Mobility Manager server (Mobile security). 
-__Held online meetings with customers__ to help them resolve difficult issues. 
-__Designed and implemented__ a “HotFix” process for quick delivery of code fixes or patches to customers. 
-__Developed__ “Analog”, an application log analysis tool. Created a SymExchange space for CRT support
-
-`Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging.`
-<table>
-  <tr>
-   <td> <img src="images/paypal-squarelogo-1440712027841.png" alt="PayPal" width="30" height="30"> </td>
-   <td><B> PayPal </B></td>
-   <td><B> October 2006 to May 2014 </B></td>
-  </tr>
-</table>
-
-`Infrastructure Team:`
-__Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
-__Developed__ infrastructure for testing messaging infrastructure, called AMQ.
-`Stage Reliability Tiger Team:`
-Hand picked for __Stage Reliability tiger team__, to tackle:  “the most critical issue affecting productivity at PayPal.
-__Designed and developed__ a monitoring tool called “Argus”. Which monitors PayPal Services, 
-restarts them and sends metrics data to a backend DB for reporting and analysis.
-`Deployment Infrastructure`: 
-__Design and developed__ command line interface client/driver for PayPal’s Dispatcher. A Deployment System, built on top of Puppet.
-` FinProd:`
-__Developed__ for the high visibility integration of Bill me latter to the PayPal website.
-` FinSys: `
-__Project managed and developer__ code for several large scale, credit card payment processing projects: FDMS integration, AMEX, and Airlines.
-
-`C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
-
 |    |    |    |
 |----|----|----|
+| FireEye | October 2015 to April 2016 | Ansible Tower, Prometheus, ELK Stack, Docker, Python. | 
+| Ooyala | March 2015 to August 2015 | Chef, Ruby, AWS, MetaCloud, Consul, Data Dog, Haproxy, Squid, Jira |
+| Symantec | May 2014 to March 2015 | Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging. |
+| PayPal | October 2006 to May 2014 | C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management. |
 | E*trade | February 2006 to September 2006 | C++, Tuxedo, Java, Perl & SQL, Linux. |
 | Kabira | August 2005 to January 2006 | Kabira’s proprietary language C++, Solaris Unix.|
 | Verizon | 1996 to 2004 | C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.|
