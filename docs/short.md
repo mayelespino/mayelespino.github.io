@@ -169,7 +169,6 @@ __Process and Data analytics__ I analized the code base, the call stack and the 
 </table>
 
 `Software engineer - AML Infrastructure Engineering` : As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site. My responsabilites included:
-
 __Release Management__ Deployed code to production and non-production environments. Help coordinate the use of the non-production environments with multiple development teams.
 __Triage__ Managed ticket queue. Assigned tickets to developers and other team members. Help Development team in debugging and root cause analysis.
 __Crisis Management__ Participated in the on-call rotation for  High priority tickets tickets.
@@ -230,25 +229,19 @@ __Developed__ “Analog”, an application log analysis tool. Created a SymExcha
 
 `Infrastructure Team:`
 __Developed__ infrastructure for and drove pilot program for the Internet Security team, based on IBM’s AppScan. 
-
 __Developed__ infrastructure for testing messaging infrastructure, called AMQ.
-
 `Stage Reliability Tiger Team:`
 Hand picked for __Stage Reliability tiger team__, to tackle:  “the most critical issue affecting productivity at PayPal.
 __Designed and developed__ a monitoring tool called “Argus”. Which monitors PayPal Services, 
 restarts them and sends metrics data to a backend DB for reporting and analysis.
-
 `Deployment Infrastructure`: 
 __Design and developed__ command line interface client/driver for PayPal’s Dispatcher. A Deployment System, built on top of Puppet.
-
 ` FinProd:`
 __Developed__ for the high visibility integration of Bill me latter to the PayPal website.
-
 ` FinSys: `
 __Project managed and developer__ code for several large scale, credit card payment processing projects: FDMS integration, AMEX, and Airlines.
 
 `C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.`
-
 
 ## Education
 <table>
@@ -259,6 +252,5 @@ __Project managed and developer__ code for several large scale, credit card paym
   <td><a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a></td>
  </tr>
  </table>
-
 _____
 
