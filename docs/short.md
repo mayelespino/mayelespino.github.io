@@ -122,10 +122,7 @@
 `Cloud access team:` This team provides the tools and infrastructure for the internal Cloud security team.
 
   * Created a serverless microservice to modify user accounts for returning employees.
-  * Created a simple CI/CD pipeline for the microservice to modify user accounts, including:
-    * YAML pipline config file.
-    * Python unit tests.
-    * Terraform files.
+  * Created a simple CI/CD pipeline for the microservice to modify user accounts, including: YAML pipline config file, Python unit tests, Terraform files.
 
 `GO, Python, AWS, CI/CD`
 
