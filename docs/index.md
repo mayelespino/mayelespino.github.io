@@ -1,9 +1,6 @@
-<font size="1"/> 
-
 (510)512-5323 | job@mayel.info | <a href="https://www.linkedin.com/in/mayelespino/"><b>LinkedIn Profile</b></a> | <a href="https://mayelespino.github.io/short.html">Short version</a>
 
-# Highlights
-
+## Highlights
 * Received award for [Microsoft patent submission](images/patent-award.JPG). The pattent application number is [20200184026](https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=Mayel.IN.&OS=IN/Mayel&RS=IN/Mayel).
 * Inventor of 6 patents: [8,849,892](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
 [8,307,378](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel) -
@@ -13,10 +10,8 @@
 [7,243,355](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=7&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
  and co-inventor of 1 patent: [9,661,142](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=mayel.INNM.&OS=IN/mayel&RS=IN/mayel)
 * Received the “PayPalian” award for the Airlines Project
-
-## Skill Set
-
-### Programming languages
+### Skill Set
+#### Programming languages
 
 |    |    |    |
 |----|----|----|
@@ -27,47 +22,30 @@
 | C# | 2 years | I implemented a set of C# microservices (Azure Functions) around a graph database. This system models processes, assets, teams, and their complex relationships.|
 | Rust | Learning | Self-taught, online training classes. |
 
-### Infrastructure
+#### Infrastructure
 
 |    |    |    |
 |----|----|----|
 | Configuration management | 5 years | Developed and improved on a variety of tools, both in house and off the shelf, to enable the Release Engineering team deploy, configure and manage the entire company’s software stack. |
 | Cloud computing | 5 years | Provisioned and managed nodes in Azure, AWS and OpenStack Stand up and manage a few Kubernetes clusters in development and production environments. |
  
-### Databases
+#### Databases
 
 |    |    |    |
 |----|----|----|
 | Relational data bases: Oracle, Sybase, MySQL |  10 years | Schema design, SQL and PSQL programming. |
 | NoSQL Databases: Cassandra, Mongo, Graph databases | 4 years | Installed, developed code to read and write. |
 
-### Operating Systems
+#### Operating Systems
 
-<table>
- <tr>
-  <td><b> Linux</b></td>
-  <td>14 years</td>
-  <td>Systems Administration and management, Process and service monitoring.</td>
- </tr>
- <tr>
-  <td><b>Unix</b></td>
-   <td>11 years</td>
-   <td>Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix.</td>
-  </tr>
-  <tr>
-   <td><b>MVS</b></td>
-   <td>4 years</td>
-   <td>Wrote applications C, REX, and proprietary languages.</td>
-  </tr>
-  <tr>
-   <td><b>Windows</b></td>
-   <td>7 years</td>
-   <td>Software Development in C++, Java and C#.</td>
-  </tr>
-</table>
+|    |    |    |
+|----|----|----|
+| Linux | 14 years | Systems Administration and management, Process and service monitoring.|
+| Unix |11 years | Systems Administration and management, Process and service monitoring, Ported C/C++ code on to various variations of Unix.|
+| MVS | 4 years | Wrote applications C, REX, and proprietary languages. |
+| Windows | 7 years | Software Development in C++, Java and C#.
 
-
-### Other
+#### Other
 
 |    |    |    |
 |----|----|----|
@@ -76,14 +54,10 @@
 | PHP | learning | Developed in-house applications for test tool. |
 | Internet security | 2 years | Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.|
 
-## Experience
-<table>
-  <tr>
-   <td><img src="images/splunk-logo.webp" alt="Splunk" width="30" height="30"></td>
-   <td><B>Splunk - [Contract]</B></td>
-   <td><B>June 2022 to August 2022</B></td>
-  </tr>
-</table>
+### Experience
+|    |    |    |
+|----|----|----|
+| <B>Splunk - [Contract]<B>| <B>June 2022 to August 2022</B> | |
 
 `Cloud access team:` This team provides the tools and infrastructure for the internal Cloud security team.
   * Created a serverless microservice to modify user accounts for returning employees.
@@ -91,13 +65,9 @@
 
 `GO, Python, AWS, CI/CD`
 
-<table>
-  <tr>
-   <td><img src="images/starbucks-logo-1992_thumb.jpg" alt="Starbucks" width="25" height="25"></td>
-   <td><B>Starbucks - [Contract]</B></td>
-   <td><B>April 2022 to June 2022</B></td>
-  </tr>
-</table>
+ |    |    |    |
+ |----|----|----|
+|><B>Starbucks - [Contract]</B> | <B>April 2022 to June 2022</B> | |
 
 `Customer Engagement` : This team is responsible for customer facing digital platform APIs and services that are critical to Starbucks' customer digital experience.
 
@@ -107,13 +77,9 @@
 
 `c# and .NET`
 
-<table>
-  <tr>
-   <td><img src="images/microsoft.png" alt="Microsoft" width="30" height="30"></td>
-   <td><B>Microsoft</B></td>
-   <td><B>February 2018 to April 2022</B></td>
-  </tr>
-</table>
+|    |    |    |
+|----|----|----|
+| <B>Microsoft</B></td>| <B>February 2018 to April 2022</B> | |
 
 `Office of the CTO` : This team designs, promotes, implements common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
@@ -126,14 +92,10 @@
  * __Asset traceability__ I participated in the development of tools and services which improved the traceability of assets across Azure. 
 
 `c#, Gremlin, GraphDB, AKWS, Go, Python, Kusto`
-
-<table>
-  <tr>
-   <td><img src="images/apple-squarelogo-1485292862952.png" alt="Apple" width="30" height="30"></td>
-   <td><B>Apple</B></td>
-   <td><B>April 2016 to December 2017</B></td>
-  </tr>
-</table>
+ 
+|    |    |    |
+|----|----|----|   
+| <B>Apple</B> | <B>April 2016 to December 2017| |
 
 `Software engineer - AML Infrastructure Engineering` : As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site. My responsabilites included:
 
@@ -142,7 +104,6 @@
 * __Crisis Management__ Participated in the on-call rotation for  High priority tickets tickets.
 
 `saltstack - python - bash scripting - Ansible - Cassandra - Hadoop`
-
 
 |    |    |    |
 |----|----|----|
@@ -158,22 +119,11 @@
 _____
 
 ## Education
-<table>
- <tr>
-  <td> <img src="images/uacj.gif" alt="Candle Corporation" width="25" height="25"></td>
-  <td> <b>U.A.C.J.</b></td>
-  <td>1984 - 1990</td>
-  <td>B.S. degree in computer engineering, fully accredited in the United States. </td>
-  <td><a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a></td>
- </tr>
- <tr>
-  <td>     </td>
-  <td><b>Colorado Technical University</b></td>
-  <td>1998 & 1999</td>
-  <td>C++ and Object Oriented certifications.</td>
-  <td><a href="https://www.coloradotechonline.com">Colorado Tech.</a></td>
- </tr>
- </table>
+
+|    |    |    |
+|----|----|----|
+| <b>U.A.C.J.</b> | 1984 - 1990 | B.S. degree in computer engineering, fully accredited in the United States. | <a href="http://www.uacj.mx/Paginas/Default.aspx">U.A.C.J</a> | 
+|<b>Colorado Technical University | 1998 & 1999 | C++ and Object Oriented certifications. | <a href="https://www.coloradotechonline.com">Colorado Tech.|
 
 ## Personal projects
 - [Code examples](https://github.com/mayelespino/code). -  Some code exercises i've done.
