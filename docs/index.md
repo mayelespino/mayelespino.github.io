@@ -80,7 +80,7 @@
 
 |    |    |    |
 |----|----|----|
-| <B>Microsoft</B></td>| <B>February 2018 to April 2022</B> | Senior software engineer |
+| <B>Microsoft</B> | <B>February 2018 to April 2022</B> | Senior software engineer |
 
 `Office of the CTO` : This team designs, promotes, implements common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
