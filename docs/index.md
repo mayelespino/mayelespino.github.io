@@ -55,9 +55,10 @@
 | Internet security | 2 years | Maintained and extended in house infrastructure, worked on tooling for security companies with 1K-2K hosts. Developed a multy threaded, file processing tool to read, analyze and update the security incident databases for 10K+ files a day.|
 
 ### Experience
+
 |    |    |    |
 |----|----|----|
-| <B>Splunk - [Contract]<B>| <B>June 2022 to August 2022</B> | |
+| <B>Splunk - [Contract]<B>| <B>June 2022 to August 2022</B> | Senior software engineer |
 
 `Cloud access team:` This team provides the tools and infrastructure for the internal Cloud security team.
   * Created a serverless microservice to modify user accounts for returning employees.
@@ -67,7 +68,7 @@
 
  |    |    |    |
  |----|----|----|
-|><B>Starbucks - [Contract]</B> | <B>April 2022 to June 2022</B> | |
+| <B>Starbucks - [Contract]</B> | <B>April 2022 to June 2022</B> | Senior software engineer |
 
 `Customer Engagement` : This team is responsible for customer facing digital platform APIs and services that are critical to Starbucks' customer digital experience.
 
@@ -79,7 +80,7 @@
 
 |    |    |    |
 |----|----|----|
-| <B>Microsoft</B></td>| <B>February 2018 to April 2022</B> | |
+| <B>Microsoft</B></td>| <B>February 2018 to April 2022</B> | Senior software engineer |
 
 `Office of the CTO` : This team designs, promotes, implements common solutions accross the Azure organization by collaborating with varios teams with in the organization.
 
@@ -95,7 +96,7 @@
  
 |    |    |    |
 |----|----|----|   
-| <B>Apple</B> | <B>April 2016 to December 2017| |
+| <B>Apple</B> | <B>April 2016 to December 2017| Site reliabilty engineer |
 
 `Software engineer - AML Infrastructure Engineering` : As part of the team I helped managed and maintain a large infrastructure to serve field diagnostic applications for Apple world wide. Highly available, multi-site. My responsabilites included:
 
