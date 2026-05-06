@@ -1,419 +1,175 @@
-<html>
-  <head>
-    <style>
-      html * {
-        font-size: 10px;
-        color: #2020131;
-        font-family: Nunito, sans-serif;
-      }
-      h1 {
-        font-family: monospace;
-        font-size: 16px;
-      }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mayel Espino</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
 
-      h2 {
-        font-family:  "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
-        font-size: 14px;
-      }
+  body {
+    font-family: "Calibri", "Carlito", Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.35;
+    color: #000;
+    background: #fff;
+  }
 
-      h3 {
-        font-family:  "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
-        font-size: 12px;
-      }
-      h4 {
-        font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
-        font-size: 10px;
-      }
-      
-      td {
-        font-family: Nunito, sans-serif;
-        font-size: 10px;
-      }
+  .page {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 54px 64px 60px;
+  }
 
-      li {
-        font-family: Nunito, sans-serif;
-        font-size: 10px;
-      }
+  /* ── HEADER ─────────────────────────────────── */
+  .header {
+    text-align: center;
+    margin-bottom: 10px;
+  }
 
+  .header h1 {
+    font-family: "Calibri", Arial, sans-serif;
+    font-size: 26pt;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 4px;
+  }
 
-      
-      b, strong {
-         color: #6495ED;
-         font-size: 10px;
-         }
+  .contact-line {
+    font-size: 10pt;
+    color: #333;
+    line-height: 1.6;
+  }
 
-      
-      .row {
-        display: flex;
-      }
-      
-      /* Create two equal columns that sits next to each other */
-      .column {
-        flex: 50%;
-        padding: 10px;
-        font-size: 10px;
-      }
-      
-    </style>
+  .contact-line a {
+    color: #1155cc;
+    text-decoration: underline;
+  }
 
-    <meta name="description" content="Mayel's resume">
-    <meta charset="UTF-8">
-    <meta name="keywords" content="mayel,espino,resume,mayelespino,cv">
-  </head>
+  .dot { margin: 0 4px; color: #666; }
 
+  /* ── SECTION HEADING ────────────────────────── */
+  .section-heading {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #1f4e79;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-top: 14px;
+    margin-bottom: 4px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #000;
+  }
+
+  /* ── SUMMARY ──────────────────────────────── */
+  .summary {
+    margin-top: 6px;
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+
+  /* ── PATENTS ──────────────────────────────── */
+  .patents { margin-top: 6px; }
+  .patents ul { margin-left: 22px; list-style-type: disc; }
+  .patents ul li { font-size: 11pt; line-height: 1.45; margin-bottom: 3px; }
+
+  /* ── SKILLS ────────────────────────────────── */
+  .skills { margin-top: 6px; }
+
+  .skill-line { font-size: 11pt; line-height: 1.5; }
+  .skill-line b { font-weight: 700; color: #000; }
+  .skill-line.muted { color: #595959; }
+
+  /* ── EXPERIENCE ────────────────────────────── */
+  .experience { margin-top: 4px; }
+
+  .job { margin-top: 12px; }
+
+  .job-title-row {
+    font-size: 12pt;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+
+  .job-company { font-weight: 700; color: #000; font-size: 12pt; }
+  .job-contract { font-weight: 700; color: #000; font-size: 12pt; }
+  .pipe { margin: 0 8px; color: #595959; font-weight: 400; }
+  .job-role { font-weight: 700; color: #1f4e79; font-size: 12pt; }
+
+  .job-meta {
+    font-size: 10pt;
+    margin-top: 1px;
+    display: flex;
+    align-items: baseline;
+  }
+
+  .job-dates { font-style: italic; color: #000; }
+  .dot2 { margin: 0 5px; color: #595959; }
+  .job-team { color: #595959; }
+
+  .job-bullets { margin-top: 5px; margin-left: 22px; list-style-type: disc; }
+  .job-bullets li { font-size: 11pt; line-height: 1.45; margin-bottom: 3px; }
+
+  /* ── EARLIER EXPERIENCE ────────────────────── */
+  .earlier { margin-top: 4px; }
+  .earlier-major { margin-top: 8px; }
+
+  .earlier-major-title { font-size: 11pt; }
+  .earlier-major ul { margin-left: 22px; list-style-type: disc; margin-top: 3px; }
+  .earlier-major ul li { font-size: 11pt; line-height: 1.45; }
+
+  .earlier-minor-block { margin-top: 6px; }
+  .earlier-minor { font-size: 10pt; color: #595959; line-height: 1.6; }
+  .earlier-minor b { color: #000; font-weight: 700; }
+  .em-dot { margin: 0 3px; }
+
+  /* ── EDUCATION ─────────────────────────────── */
+  .education { margin-top: 6px; }
+  .edu-line { font-size: 11pt; font-weight: 700; }
+  .edu-line span { font-weight: 400; }
+
+  @media print {
+    body { font-size: 10pt; }
+    .page { padding: 20mm 18mm; max-width: 100%; }
+  }
+</style>
+</head>
 <body>
+<div class="page">
 
-<!--- ===================================================================================
-  HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER 
-  HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER 
-  HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER 
-=================================================================================== --->
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Mayel Espino</h1>
+    <div class="contact-line">
+      (510) 512-5323<span class="dot">·</span>mayel.espino@gmail.com<span class="dot">·</span>San Francisco Bay Area<span class="dot">·</span><a href="https://linkedin.com/in/mayelespino">linkedin.com/in/mayelespino</a><span class="dot">·</span><br>
+      <a href="https://hephaestus.rocks">hephaestus.rocks</a>
+    </div>
+  </div>
 
-<h1>Mayel Espino's Resume</h1>
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section-heading">Professional Summary</div>
+  <div class="summary">
+    Senior software and infrastructure engineer with 35+ years of experience building and leading teams at Google,
+    Meta, Microsoft, Apple, and PayPal. Inventor of 7 patents — including a Microsoft-patented cloud monitoring and
+    simulation platform — and a hands-on leader of infrastructure, DevOps, and embedded systems programs.
+    Proven track record designing distributed systems, CI/CD pipelines, and fleet management tooling at hyperscale.
+    Equally at home writing low-level C++ and architecting cloud-native Kubernetes platforms.
+  </div>
 
-<b>Phone:</b>(510)512-5323
-&nbsp;| &nbsp;
-<b>Email:</b>mayel.espino@gmail.com
-&nbsp; | &nbsp;
-<b>Location:</b> San Francisco Bay Area
-&nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/mayelespino/" target="_blank">https://www.linkedin.com/in/mayelespino/</a>
-&nbsp; | &nbsp;
-<a href="https://calendar.app.google/SriKab2NT8BWxrsL6" target="_blank">Book a Google meeting with me</a>
-<br/>    
-<!--- =================================================================================== 
-HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS 
-HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS 
-HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS 
-=================================================================================== --->
-    
-  <h2>Professional Summary</h2>
-  <hr>
-<div class="row">      <!--- BEGIN ROW --->
-<div class="column">   <!--- BEGIN COLUMN --->
+  <!-- PATENTS -->
+  <div class="section-heading">Patents</div>
+  <div class="patents">
+    <ul>
+      <li>Patented cloud monitoring and simulation service platform — Microsoft (primary inventor)</li>
+      <li>6 additional U.S. patents as inventor; 1 as co-inventor — covering cloud infrastructure and distributed systems</li>
+    </ul>
+  </div>
 
-      <b>Software developer</b><br/>
-      &#10004; Knowledge of 10+ programming languages and continuously learning.  <br/>
-      &#10004; Coding expertise on Mainframe, midrange, desktop computers, and microcontrollers.<br/>         
-      &#10004; Participated in important company architectural transitions.<br/>
-      &#10004; Expertise in Cloud Computing, Git,Databases,Linux,Docker, and CI/CD Pipelines<br/>
-
-      <b>Engineer for engineers</b><br/>
-      &#10004; Team lead at Candle, PayPal and Microsoft.<br/>
-      &#10004; Infrastructure and tool development: Deployment systems, monitoring tools, APIs for other engineers<br/>
-</div>                    <!--- END COLUMN --->
-<div class="column">      <!--- BEGIN COLUMN --->
-
-      <b>Inventor and innovator</b><br/>
-      &#10004; <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20200184026" target="_blank">Invented a service patented by Microsoft.</a> <br/>
-      &#10004; <a href="https://patents.justia.com/inventor/mayel-espino" target="_blank">Inventor of 6 patents and co-inventor of 1 patent</a><br/>
- 
-      <b>Niche Skills</b><br/>
-      &#10004; Computer engineering degree in <b>both hardware and software.</b><br/> 
-      &#10004; Assembler,Fortran, Cobol, Pascal, Perl.<br/>
-      &#10004; Mainframe OS (MVS)<br/>
-      &#10004; NetApp: System Manager and OnTap (ClusterShell)<br/>
-</div> <!--- END COLUMN ---> 
-</div> <!--- END ROW --->
-
-
-<!--- ===================================================================================
-PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO 
-PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO 
-PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO 
-=================================================================================== --->
-</br><b>Portfolio:</b></br>
-&#10004;<a href="https://hephaestus.rocks" target="_blank">https://hephaestus.rocks</a>
-  
-<!--- =================================================================================== 
-SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  
-SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  
-SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  SKILL SET  
- =================================================================================== --->
-
-<h2>Skill Set</h2>
-<hr>
-<table>
-  <tr>
-    <td>
-      <b>Languages:</b>
-    </td>
-    <td>
-      C/C++, Python, Go, Rust (learning), Kotlin (learning), R, Java, C#, Bash, Assembly, Fortran, COBOL, Pascal, Perl
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>DevOps & Infra:</b>
-    </td>
-    <td>
-      Docker, Kubernetes, Terraform, Helm, SaltStack, Ansible, Puppet, Chef, CI/CD (Rapid, Jenkins, GitHub Actions)  
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Cloud Platforms:</b>
-    </td>
-    <td>
-      Azure, AWS, GCP, Azure Functions, Lambda, AKS, GCloud
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Databases:</b>
-    </td>
-    <td>
-      Oracle, Sybase, MongoDB, Redis, Cassandra, Microsoft Graph DB
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Monitoring & Observability:</b>
-    </td>
-    <td>
-      DataDog, Monit, splunk, Azure portal, custom-built tools (see patent for Microsoft).
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Operating Systems:</b>
-    </td>
-    <td>
-      Linux, Unix, Windows, MVS
-    </td>
-  </tr>   
-</table>
-
-<!--- ===================================================================================
-EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE 
-EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE 
-EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE EXPERIENCE 
-=================================================================================== --->
-<br/><br/>
-  
-<h2>Relevant Experience</h2>
- <hr>
-   <!--- GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE --->
-  <h3>Google [Contract]</h3>  
-  <table>
-    <tr>
-       <td style="width:  5%"><b>From:</b></td>
-       <td style="width:  95%">Sep 2025 (06/2023) <b>To: </b> Present</td> 
-    </tr><tr>
-      <td style="width:  5%"><b>Role:</b>
-      </td><td>Senior Embedded Engineer </td>
-    </tr><tr>
-      <td style="width:  5%"><b>Team:</b></td>
-      <td style="width: 95%">HILT</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Skills used:</b></td> 
-      <td style="width: 95%">Python, Go, Blaze, Cider (IDX), Critique (Code review) , Ansible, Rapid (CI/CD), Borg, GCloud, G3.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Responsibilities:</b></td>
-      <td style="width:  95%"></td>
-    </tr>
-  </table>
-  <ul>
-    <li>Introduced team to Ansible and wrote the fundational playbooks for fleet configuration management.</li>
-    <li>Bring-up and manage several complex, inhouse designed and built devices to added them to the team's fleet. I helped assemble and then I configured these devices.</li>
-    <li>Coordinate: QA, release management.</li>
-    <li>Instrumentation and monitoring.</li>
-   </ul>
-
-  <!--- META META META META META META META META META META META META META META META META META META --->
-  <h3>Meta</h3>  
-  <table>
-    <tr>
-       <td style="width:  5%"><b>From:</b></td>
-       <td style="width:  95%">Dec 2024 (12/2024) <b>To: </b>Aug 2025 (08/2025)</td> 
-    </tr><tr>
-      <td style="width:  5%"><b>Role:</b>
-      </td><td>Senior System engineer at Enterprise Storage</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Team:</b></td>
-      <td style="width: 95%">Enterprise Engineering Storage</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Skills used:</b></td> 
-      <td style="width: 95%">Python,NetApp, Isilon.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Responsibilities:</b></td>
-      <td style="width:  95%"></td>
-    </tr>
-  </table>
-  <ul>
-    <li>Developed internal tools for observability and alerting in Python/Hack, improving system reliability.</li>
-    <li>Managed NetApp and Isilon storage systems for enterprise use.</li>
-    <li>Provided critical on-call support across storage systems.</li>
-    <li>Integrated MetaMate & DevMate AI into team workflows, streamlining code delivery./li>
-  </ul>
-  <h3>Reason for leaving: Impacted by layoffs </h3>
-  <!--- GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE GOOGLE --->
-  <h3>Google [Contract]</h3>  
-  <table>
-    <tr>
-       <td style="width:  5%"><b>From:</b></td>
-       <td style="width:  95%">Jul 2023 (06/2023) <b>To: </b> May 2024 (05/2024)</td> 
-    </tr><tr>
-      <td style="width:  5%"><b>Role:</b>
-      </td><td>Senior Devops engineer at Omnilab </td>
-    </tr><tr>
-      <td style="width:  5%"><b>Team:</b></td>
-      <td style="width: 95%">DOPS, the operations support team for Omnilab and Firebase labs.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Skills used:</b></td> 
-      <td style="width: 95%">Python, Go, Blaze, Cider (IDX), Critique (Code review) , Salt, Rapid (CI/CD), Borg, GCloud, G3.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Responsibilities:</b></td>
-      <td style="width:  95%"></td>
-    </tr>
-  </table>
-  <ul>
-    <li>Built automation tools for Firebase Labs infrastructure, scaling support for Android testing.</li>
-    <li>Developed services using Python and Go, supporting CI/CD and device fleet monitoring.</li>
-    <li>Led systems troubleshooting and improved incident response for GCloud-based infrastructure.</li>
-  </ul>
-  <h3>Reason for leaving: Impacted by layoffs </h3>
-  <!--- MICROSOFT  MICROSOFT MICROSOFT MICROSOFT MICROSOFT MICROSOFT MICROSOFT MICROSOFT MICROSOFT --->
-  <h3>Microsoft</h3> 
-  <table>
-    <tr>
-       <td style="width:  5%"><b>From:</b></td>
-       <td style="width: 95%">Feb 2018 (02/2018) <b> To: </b>Apr 2022 (04/2022)</td> 
-    </tr><tr>
-      <td style="width:  5%"><b>Role:</b></td>
-      <td style="width: 95%">Senior software engineer.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Teams:</b></td>
-      <td style="width: 95%">Office of the CTO.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Skills used:</b></td>
-      <td style="width: 95%">c#, Gremlin, Graph DB, AKS (Kubernetes), Go, Python, Kusto tables, PowerShell, PowerBI.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Responsibilities:</b></td>
-      <td style="width: 95%"></td>
-    </tr>
-  </table>
-  <ul>
-    <li>Invented a patented service platform used for cloud monitoring and simulation applications.</li>
-    <li>Led a PoC for Azure-based event service to coordinate messaging across services.</li>
-    <li>Provided architecture support and best practices via Azure concierge service.</li>
-  </ul>
-  <h3>Reson for leaving: Impacted by layoffs </h3>
-  <!--- APPLE  APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE APPLE --->
-  <h3>Apple [full time]</h3>  
-  <table>
-    <tr>
-       <td style="width:  5%"><b>From:</b></td>
-       <td style="width: 95%">Apr 2016 (04/2016) <b> To: </b>Dec 2017 (12/2017)</td> 
-    </tr><tr>
-      <td style="width:  5%"><b>Role:</b></td>
-      <td style="width: 95%">Site reliability engineer</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Team:</b></td>
-      <td style="width: 95%">AML Infrastructure Engineering - AST Apple Standard Toolkit.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Skills used:</b></td>
-      <td style="width: 95%">salt-stack - python - bash scripting - Ansible - Cassandra</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Responsibilities:</b></td>
-      <td style="width: 95%"></td>
-    </tr>
-  </table>
-  <ul>
-    <li>Reduced support ticket response time by 85% via process automation and triage redesign.</li>
-    <li>Developed SaltStack modules to safeguard production systems and reduce risk.</li>
-  </ul>
-<h3>Reason for leaving: About to be impacted by layoffs I got an offer from Microsoft. </h3>
-<br/>
-
-   <!--- SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK SPLUNK --->
-  <h3>Splunk [Contract]</h3>  
-  <table>
-    <tr>
-       <td style="width:  5%"><b>From:</b></td>
-       <td style="width:  95%">July 2022 (07/2022) <b>To: </b> Aug 2022 (08/2022)</td> 
-    </tr><tr>
-      <td style="width:  5%"><b>Role:</b>
-      </td><td>Senior Software Engineer </td>
-    </tr><tr>
-      <td style="width:  5%"><b>Team:</b></td>
-      <td style="width: 95%">Cloud access team. This team provides the tools and infrastructure for the internal Cloud security team.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Skills used:</b></td> 
-      <td style="width: 95%">GO, Python, AWS, CI/CD, Terrraform.</td>
-    </tr><tr>
-      <td style="width:  5%"><b>Responsibilities:</b></td>
-      <td style="width:  95%"></td>
-    </tr>
-  </table>
-  <ul>
-    <li>Developed two versions of a tool that allowed Splunk re-enable access to accounts of returning employees. This tools would interact with OKTA's web API and Splunk's internal services to achieve its objective.
-        version one was a CLI written in GO. Version two was an Azure function, written in Python, that interacted with our users via internal SLACK chat bot.</li>
-  </ul>
-<h3>Reason for leaving: Impacted by layoffs </h3>
-  
-  <!--- ===================================================================================
-EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  
-EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  
-EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  EXTRA EXTRA  
-=================================================================================== --->
-<!--- Page break when printing --->
-<div style="break-after:page"></div> 
-<!--- Page break when printing --->
-<hr>
-<!---  1991-2016 1991-2016 1991-2016 1991-2016 1991-2016 1991-2016 1991-2016 --->
-
-<h2>Experience 1991 to 2016</h2>
-<hr>  
-<table>
-    <tr>
-      <td style="width:  5%">FireEye </td>
-      <td style="width:  10%">Senior DevOps engineer</td>
-      <td style="width:  10%">2016</td>
-      <td style="width:  75%">Ansible Tower, Prometheus, ELK Stack, Docker, Python.</td>
-    </tr><tr>
-      <td style="width:  5%">Ooyala </td>
-      <td style="width:  10%">Site Reliability Engineer</td>
-      <td style="width:  10%">2015</td>
-      <td style="width:  75%">Chef, Ruby, AWS, Consul, Data Dog, Haproxy, Squid, Jira, OpenShift, OpenStack.</td>
-    </tr><tr>
-      <td style="width:  5%">Symantec </td>
-      <td style="width:  10%"> Senior software engineer</td>
-      <td style="width:  10%">2014 to 2015</td>
-      <td style="width:  75%">Python, Django, PyCharm, SVN, Vagrant, AWS, Monit, celery, Rabitt MQ, messaging, OpenShift.</td>
-    </tr><tr>
-      <td style="width:  5%">PayPal </td>
-      <td style="width:  10%">Senior software engineer</td>
-      <td style="width:  10%">2006 to 2014</td>
-      <td style="width:  75%">C++, Java, Perl, Python, Ruby, Bash, AppScan (IBM), Jenkins, Jaws, Maven, github, RH Linux, REST API, Oracle DB, Django, Puppet,SOAP, clear case, RH Linux. Project Management.</td>
-    </tr><tr>
-      <td style="width:  5%">E*trade </td>
-      <td style="width:  10%">Senior software engineer</td>
-      <td style="width:  10%">2006</td>
-      <td  style="width: 75%">C++, Tuxedo, Java, Perl & SQL, Linux.</td>
-    </tr><tr>
-      <td style="width:  5%">Kabira</td>
-      <td style="width:  10%">Site Reliability Engineer</td>
-      <td style="width:  10%">2006</td>
-      <td style="width:  75%">Kabira’s proprietary language C++, Solaris Unix.</td>
-    </tr><tr>
-      <td style="width:  5%">Verizon</td>
-      <td style="width:  10%">Senior software engineer</td>
-      <td style="width:  10%">1996 to 2004</td>
-      <td style="width:  75%">C++, IBM’ Unix (AIX), HP’s Unix, Solaris, MVS, Windows and many others. Web-sphere, MQ series, Java Servlets, Insure++, xdbc.</td>
-    </tr><tr>
-      <td style="width:  5%">Candle Corporation</td>
-      <td style="width:  10%">Software engineer/Team manager.</td>
-      <td style="width:  10%">1991 to 1996</td>
-      <td style="width:  75%">Candle’s proprietary languages, C++, Rexx, assembler. Project Management.</td>
-    </tr>
-</table>
-  
-<!--- EDUCATION EDUCATION EDUCATION EDUCATION EDUCATION EDUCATION EDUCATION --->
-<br/>
-<h2>Education</h2>
-<hr>  
-<p><a href="https://www.uacj.mx/index.html" target="_blank">U.A.C.J.</a> [1984 - 1990] - B.S. degree in computer engineering, fully accredited in the United States. </p>
-
-</body>
-</html>
+  <!-- SKILLS -->
+  <div class="section-heading">Skills</div>
+  <div class="skills">
+    <div class="skill-line"><b>Languages:</b> C/C++, Python, Go, Java, C#, R, Bash</div>
+    <div class="skill-line"><b>DevOps &amp; Infra:</b> Docker, Kubernetes (AKS/GKE), Terraform, Helm, SaltStack, Ansible, Puppet, Chef, CI/CD (Rapid, Jenkins, GitHub Actions)</div>
+    <div class="skill-line"><b>Cloud:</b> GCP (Borg, GCloud, G3), AWS, Azure, Azure Functions, Lambda</div>
+    <div class="skill-line"><b>Databases:</b> Oracle, Sybase, MongoDB, Redis, Cassandra, Microsoft Graph DB</div>
+    <div class="skill-line"><b>Observability:</b> DataDog, Prometheus, ELK Stack, Monit,
