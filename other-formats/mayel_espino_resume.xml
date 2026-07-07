@@ -154,10 +154,32 @@
   <earlierExperience period="1991 – 2016">
     <role>
       <company>PayPal</company>
-      <title>Senior Software Engineer</title>
-      <start>2006</start>
-      <end>2014</end>
-      <summary>8-year tenure across security, payments, and platform teams. Led projects involving REST APIs, Oracle DB, and multi-language backend services (C++, Java, Python, Ruby). Managed project delivery as technical lead.</summary>
+      <location>San Jose, California</location>
+      <start>2006-11</start>
+      <end>2014-05</end>
+      <duration>7 yrs 7 mos</duration>
+      <summary>Tenure across security, payments, and platform teams. Led projects involving REST APIs, Oracle DB, and multi-language backend services (C++, Java, Python, Ruby). Managed project delivery as technical lead.</summary>
+      <positions>
+        <position>
+          <title>Staff Software Engineer</title>
+          <start>2010-06</start>
+          <end>2014-05</end>
+          <duration>4 yrs</duration>
+        </position>
+        <position>
+          <title>FinSys/FinProd Engineer</title>
+          <employmentType>Contractor (via United IT)</employmentType>
+          <start>2006-11</start>
+          <end>2010-05</end>
+          <duration>3 yrs 7 mos</duration>
+          <highlights>
+            <highlight>Analysis and design, project planning and project tracking of PayPal credit card projects.</highlight>
+            <highlight>Management and coordination of development team in IDC (India Development Center).</highlight>
+            <highlight>Interface with business unit, accounting, and other groups.</highlight>
+            <highlight>Research, resolve production issues and interface with live operations groups.</highlight>
+          </highlights>
+        </position>
+      </positions>
     </role>
     <role>
       <company>Verizon</company>
@@ -181,9 +203,18 @@
       </highlights>
     </role>
   </earlierExperience>
+  <education>
+    <degree>
+      <institution>Universidad Autónoma de Ciudad Juárez</institution>
+      <qualification>BS Computer Engineering</qualification>
+      <field>Computer Engineering/Computer Science</field>
+      <start>1985</start>
+      <end>1990</end>
+    </degree>
+  </education>
   <meta>
     <source>https://mayelespino.github.io</source>
     <retrieved>2026-07-06</retrieved>
-    <notes>Source HTML at mayelespino.github.io is truncated at the FireEye entry; FireEye details supplied separately by the resume owner (from LinkedIn). No Education section content was present in the source.</notes>
+    <notes>FireEye, expanded PayPal roles, and Education supplied by the resume owner (from LinkedIn); the original published HTML was truncated and lacked these.</notes>
   </meta>
 </resume>

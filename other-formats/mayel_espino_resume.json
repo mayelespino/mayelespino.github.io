@@ -160,10 +160,32 @@
     "roles": [
       {
         "company": "PayPal",
-        "title": "Senior Software Engineer",
-        "start": "2006",
-        "end": "2014",
-        "summary": "8-year tenure across security, payments, and platform teams. Led projects involving REST APIs, Oracle DB, and multi-language backend services (C++, Java, Python, Ruby). Managed project delivery as technical lead."
+        "location": "San Jose, California",
+        "start": "2006-11",
+        "end": "2014-05",
+        "duration": "7 yrs 7 mos",
+        "summary": "Tenure across security, payments, and platform teams. Led projects involving REST APIs, Oracle DB, and multi-language backend services (C++, Java, Python, Ruby). Managed project delivery as technical lead.",
+        "positions": [
+          {
+            "title": "Staff Software Engineer",
+            "start": "2010-06",
+            "end": "2014-05",
+            "duration": "4 yrs"
+          },
+          {
+            "title": "FinSys/FinProd Engineer",
+            "employment_type": "Contractor (via United IT)",
+            "start": "2006-11",
+            "end": "2010-05",
+            "duration": "3 yrs 7 mos",
+            "highlights": [
+              "Analysis and design, project planning and project tracking of PayPal credit card projects.",
+              "Management and coordination of development team in IDC (India Development Center).",
+              "Interface with business unit, accounting, and other groups.",
+              "Research, resolve production issues and interface with live operations groups."
+            ]
+          }
+        ]
       },
       {
         "company": "Verizon",
@@ -188,9 +210,18 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Universidad Autónoma de Ciudad Juárez",
+      "degree": "BS Computer Engineering",
+      "field": "Computer Engineering/Computer Science",
+      "start": "1985",
+      "end": "1990"
+    }
+  ],
   "meta": {
     "source": "https://mayelespino.github.io",
     "retrieved": "2026-07-06",
-    "notes": "Source HTML at mayelespino.github.io is truncated at the FireEye entry; FireEye details supplied separately by the resume owner (from LinkedIn). No Education section content was present in the source."
+    "notes": "FireEye, expanded PayPal roles, and Education supplied by the resume owner (from LinkedIn); the original published HTML was truncated and lacked these."
   }
 }
