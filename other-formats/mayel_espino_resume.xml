@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resume>
+  <basics>
+    <name>Mayel Espino</name>
+    <phone>(510) 512-5323</phone>
+    <email>contact@mayel.tech</email>
+    <location>San Francisco Bay Area</location>
+    <linkedin>https://linkedin.com/in/mayelespino</linkedin>
+    <portfolio>https://mayel.tech</portfolio>
+  </basics>
+  <summary>Senior software and infrastructure engineer with 35+ years of experience building and leading teams at Google, Meta, Microsoft, Apple, and PayPal. Inventor of 7 patents — including a Microsoft-patented cloud monitoring and simulation platform — and a hands-on leader of infrastructure, DevOps, and embedded systems programs. Proven track record designing distributed systems, CI/CD pipelines, and fleet management tooling at hyperscale. Equally at home writing low-level C++ and architecting cloud-native Kubernetes platforms.</summary>
+  <patents>
+    <patent>Patented cloud monitoring and simulation service platform — Microsoft (primary inventor)</patent>
+    <patent>6 additional U.S. patents as inventor; 1 as co-inventor — covering cloud infrastructure and distributed systems</patent>
+  </patents>
+  <skills>
+    <category name="languages">
+      <skill>C/C++</skill>
+      <skill>Python</skill>
+      <skill>Go</skill>
+      <skill>Java</skill>
+      <skill>C#</skill>
+      <skill>R</skill>
+      <skill>Bash</skill>
+    </category>
+    <category name="devops_infra">
+      <skill>Docker</skill>
+      <skill>Kubernetes (AKS/GKE)</skill>
+      <skill>Terraform</skill>
+      <skill>Helm</skill>
+      <skill>SaltStack</skill>
+      <skill>Ansible</skill>
+      <skill>Puppet</skill>
+      <skill>Chef</skill>
+      <skill>CI/CD (Rapid, Jenkins, GitHub Actions)</skill>
+    </category>
+    <category name="cloud">
+      <skill>GCP (Borg, GCloud, G3)</skill>
+      <skill>AWS</skill>
+      <skill>Azure</skill>
+      <skill>Azure Functions</skill>
+      <skill>Lambda</skill>
+    </category>
+    <category name="databases">
+      <skill>Oracle</skill>
+      <skill>Sybase</skill>
+      <skill>MongoDB</skill>
+      <skill>Redis</skill>
+      <skill>Cassandra</skill>
+      <skill>Microsoft Graph DB</skill>
+    </category>
+    <category name="observability">
+      <skill>DataDog</skill>
+      <skill>Prometheus</skill>
+      <skill>ELK Stack</skill>
+      <skill>Monit</skill>
+      <skill>custom-built tooling</skill>
+    </category>
+    <category name="os">
+      <skill>Linux</skill>
+      <skill>Unix</skill>
+      <skill>Windows</skill>
+    </category>
+    <category name="legacy_niche">
+      <skill>Rust (learning)</skill>
+      <skill>Kotlin (learning)</skill>
+      <skill>Assembly</skill>
+      <skill>Fortran</skill>
+      <skill>COBOL</skill>
+      <skill>Pascal</skill>
+      <skill>Perl</skill>
+      <skill>MVS</skill>
+      <skill>NetApp OnTap</skill>
+    </category>
+  </skills>
+  <experience>
+    <position current="true">
+      <company>Google</company>
+      <employmentType>Contract</employmentType>
+      <title>Senior Embedded Engineer</title>
+      <start>2023-06</start>
+      <end>present</end>
+      <team>HILT team</team>
+      <highlights>
+        <highlight>Championed adoption of Ansible for fleet configuration management; personally authored 95% of the playbooks now governing all HILT device provisioning and state enforcement.</highlight>
+        <highlight>Contributed to hardware design of the team's most complex device under test by designing and 3D-printing a custom mechanical component, improving device useability.</highlight>
+        <highlight>Authored 50% of the team's Standard Operating Procedures (SOPs), establishing repeatable processes for device bring-up, fleet management, and incident response.</highlight>
+        <highlight>Led bring-up and integration of multiple complex, in-house designed hardware devices into the team's managed fleet — including physical assembly, OS configuration, and network provisioning.</highlight>
+      </highlights>
+    </position>
+    <position current="false">
+      <company>Meta</company>
+      <employmentType>Full-time</employmentType>
+      <title>Senior Systems Engineer</title>
+      <start>2024-12</start>
+      <end>2025-08</end>
+      <team>Enterprise Engineering Storage</team>
+      <highlights>
+        <highlight>Developed internal observability and alerting tools in Python/Hack, improving incident detection time and system reliability across enterprise storage infrastructure.</highlight>
+        <highlight>Managed petabyte-scale NetApp and Isilon storage systems serving thousands of internal users, maintaining high availability through proactive capacity planning and on-call support.</highlight>
+        <highlight>Integrated MetaMate and DevMate AI assistants into team workflows, reducing code review cycle time and accelerating feature delivery.</highlight>
+      </highlights>
+    </position>
+    <position current="false">
+      <company>Google</company>
+      <employmentType>Contract</employmentType>
+      <title>Senior DevOps Engineer</title>
+      <start>2023-06</start>
+      <end>2024-05</end>
+      <team>DOPS — Omnilab / Firebase Labs</team>
+      <highlights>
+        <highlight>Built automation tooling that scaled Firebase Labs' Android device fleet testing infrastructure, enabling concurrent testing across a significantly larger device pool.</highlight>
+        <highlight>Developed backend services in Python and Go supporting CI/CD pipelines and real-time device fleet monitoring.</highlight>
+        <highlight>Led systems troubleshooting efforts and improved incident response playbooks for GCloud-based infrastructure, reducing mean time to resolution.</highlight>
+      </highlights>
+    </position>
+    <position current="false">
+      <company>Microsoft</company>
+      <employmentType>Full-time</employmentType>
+      <title>Senior Software Engineer</title>
+      <start>2018-02</start>
+      <end>2022-04</end>
+      <team>Office of the CTO</team>
+      <highlights>
+        <highlight>Invented a cloud monitoring and simulation service platform that was patented by Microsoft — used for event coordination and observability across Azure services.</highlight>
+        <highlight>Led a proof-of-concept for an Azure-based event service to coordinate messaging across distributed services, later adopted into production architecture.</highlight>
+        <highlight>Provided architecture guidance and Azure best practices to internal teams via the Azure concierge program.</highlight>
+      </highlights>
+      <stack>
+        <technology>C#</technology>
+        <technology>Go</technology>
+        <technology>Python</technology>
+        <technology>Gremlin</technology>
+        <technology>Graph DB</technology>
+        <technology>AKS</technology>
+        <technology>Kusto</technology>
+        <technology>PowerShell</technology>
+        <technology>PowerBI</technology>
+      </stack>
+    </position>
+    <position current="false">
+      <company>Apple</company>
+      <employmentType>Full-time</employmentType>
+      <title>Site Reliability Engineer</title>
+      <start>2016-04</start>
+      <end>2017-12</end>
+      <team>AML Infrastructure — Apple Standard Toolkit</team>
+      <highlights>
+        <highlight>Reduced support ticket response time by 85% through process automation, triage redesign, and runbook development.</highlight>
+        <highlight>Developed SaltStack modules that enforced configuration hygiene across production systems, reducing drift-related incidents.</highlight>
+      </highlights>
+    </position>
+  </experience>
+  <earlierExperience period="1991 – 2016">
+    <role>
+      <company>PayPal</company>
+      <title>Senior Software Engineer</title>
+      <start>2006</start>
+      <end>2014</end>
+      <summary>8-year tenure across security, payments, and platform teams. Led projects involving REST APIs, Oracle DB, and multi-language backend services (C++, Java, Python, Ruby). Managed project delivery as technical lead.</summary>
+    </role>
+    <role>
+      <company>Verizon</company>
+      <title>Senior Software Engineer</title>
+      <start>1996</start>
+      <end>2004</end>
+      <summary>8-year tenure building carrier-grade telecom software across Unix (AIX, HP-UX, Solaris), Windows, and MVS. Developed with C++, Java Servlets, MQ Series, and WebSphere in a high-availability environment.</summary>
+    </role>
+    <role>
+      <company>FireEye, Inc.</company>
+      <title>Sr. DevOps Engineer</title>
+      <start>2015-10</start>
+      <end>2016-04</end>
+      <duration>7 mos</duration>
+      <location>Milpitas, California</location>
+      <highlights>
+        <highlight>Development of automated tools for monitoring, management and deployment of horizontally-scaled, highly-available cloud systems</highlight>
+        <highlight>Architecting multi-datacenter monitoring facilities</highlight>
+        <highlight>Building performance and reliability metrics in a dynamic application environment</highlight>
+        <highlight>Integrate with engineering teams to provide expertise and requirements</highlight>
+      </highlights>
+    </role>
+  </earlierExperience>
+  <meta>
+    <source>https://mayelespino.github.io</source>
+    <retrieved>2026-07-06</retrieved>
+    <notes>Source HTML at mayelespino.github.io is truncated at the FireEye entry; FireEye details supplied separately by the resume owner (from LinkedIn). No Education section content was present in the source.</notes>
+  </meta>
+</resume>
